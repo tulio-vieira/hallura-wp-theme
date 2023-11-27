@@ -22,3 +22,10 @@ endif;
 add_action( 'wp_enqueue_scripts', 'child_theme_configurator_css', 10 );
 
 // END ENQUEUE PARENT ACTION
+
+function register_hallura_styles_and_scripts() {
+    if ( is_page_template( 'template-hallura-front-page.php' ) ) {
+        wp_enqueue_style( 'foundation', get_stylesheet_directory_uri() . '/hallura-front-page.css' );
+    }
+}
+add_action( 'wp_enqueue_scripts', 'register_hallura_styles_and_scripts');
