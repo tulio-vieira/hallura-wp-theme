@@ -1,3 +1,103 @@
-.my-hallura-class {
-    color: red;
+.overlay-bg {
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+.section-title {
+    margin: 10px auto 80px auto;
+}
+.section-title h1 {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    margin: 10px 0;
+}
+hr.center_line {
+    width: 80px;
+    box-sizing: content-box;
+    border: 0;
+    height: 1px;
+    margin: 20px auto;
+}
+.default-bg {
+    background-color: #c49903;
+}
+
+
+
+
+
+section.hallura {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    position: relative;
+    z-index: 10;
+    background: #f5f5f5;
+    overflow: hidden;
+}
+
+.hallura-results-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    display: grid;
+    gap: 30px;
+    max-width: 1170px;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 767px) {
+    .hallura-results-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .hallura-results-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.hallura-result {
+    flex: 1 1 0px;
+    text-align: center;
+}
+
+.hallura-result h3 {
+    margin: 0;
+    font-size: 16px;
+    line-height: 18px;
+}
+.hallura-result h2 {
+    margin: 15px 0 20px;
+    font-size: 60px;
+    line-height: 70px;
+}
+.hallura-result h2, .hallura-result h3 {
+    color: white;
+    text-align: center;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.hallura-result i {
+    font-size: 70px;
+}
+.font-600 {
+    font-weight: 600!important;
+}
+
+
+
+
+
+
+
+.text-center {
+    text-align: center;
 }
