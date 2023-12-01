@@ -30,7 +30,9 @@
 			<?php } ?>
 
 			<?php if ( is_front_page() ) : ?>
-				<h1 class="site-title"><a href="<?php echo esc_url( $button_url ); ?>" target="<?php echo esc_attr( $button_target ); ?>"><?php echo esc_html( $site_title ); ?></a></h1>
+				<div class="landpage-title">
+                    The NEW<b> HA Filler</b><br>to enhance the <b>natural You</b>
+                </div>
 			<?php else : ?>
 				<p class="site-title"><a href="<?php echo esc_url( $button_url ); ?>" target="<?php echo esc_attr( $button_target ); ?>"><?php echo esc_html( $site_title ); ?></a></p>
 			<?php endif; ?>
