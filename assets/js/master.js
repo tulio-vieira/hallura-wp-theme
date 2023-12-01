@@ -657,7 +657,6 @@
 			preloader: false,
 			fixedContentPos: false
 		});
-		console.log("hi")
 
 	});
 
