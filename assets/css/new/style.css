@@ -75,20 +75,6 @@
 .breadcrumb-content .title > span {
 	color: #c49903;
 }
-.scroll-top,
-.btn:hover,
-.navbar-wrap > ul > li .submenu li a::before,
-.title-style-two .sub-title::before,
-.services-list ul li .icon::before,
-.tr-movie-menu-active button::before,
-.tr-movie-menu-active button::after {
-	background: #c49903;
-}
-
-/* button style */
-
-
-
 
 /* 7. Up-coming */
 .ucm-bg {

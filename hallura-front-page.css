@@ -29,3 +29,29 @@
         font-size: 35px;
     }
 }
+
+.hallura-button {
+    padding: 13px 40px;
+    font-size: 12px;
+    color: #fff;
+    border-color: #fff;
+    background-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 1px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    border: 1px solid #fff;
+}
+
+.hallura-button:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.hallura-button:hover, .hallura-button:active, .hallura-button:focus {
+    color: #1d2124;
+    border-color: #fff;
+    background-color: #fff;
+}

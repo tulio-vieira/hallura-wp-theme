@@ -191,7 +191,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-12 remove-padding default-bg">
             <p class="mt-0 centerize-col text-center pt-60 pb-60 mb-0">
-              <a class="btn btn-lg btn-light-outline btn-square">View Technology</a>
+              <a class="hallura-button">View Technology</a>
             </p>
           </div>
         </div>
