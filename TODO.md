@@ -1,0 +1,9 @@
+- remove duplicate jquery
+- responsive landing page
+- fix small css issues in landing page
+- ensure js files are loaded in correct order
+- remove unnecessary js
+- fix contact page
+- seo
+- cdn with cache
+- test deploy with wordpress

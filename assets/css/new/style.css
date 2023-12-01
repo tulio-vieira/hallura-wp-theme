@@ -1,0 +1,447 @@
+/*
+  Theme Name: Movfix - Online Movies & TV Shows Template.
+  Author Name: ThemeBeyond.
+  Support: ctoofbb@gmail.com.
+  Description: Movfix - Online Movies & TV Shows Template.
+  Version: 1.0
+*/
+
+/* CSS Index
+-----------------------------------
+
+1. Theme default css
+2. Header
+3. Search modal
+4. Mobile-menu
+5. Breadcrumb
+6. Banner
+7. Up-coming
+8. Services
+9. Top-movies
+10. Gallery
+11. Pagination
+12. Live-show
+13. Movie-details
+14. Pricing
+15. Tv-series
+16. Blog
+17. Newsletter
+18. Contact
+19. Footer
+20. Preloader
+
+*/
+
+
+
+/* 1. Theme default css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800&display=swap');
+ body {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 14px;
+	color: #bcbcbc;
+}
+
+/* All-color */
+.navbar-wrap > ul > li.active > a,
+.navbar-wrap > ul > li:hover > a,
+.mobile-menu .navigation li.active > a,
+.header-lang form .icon,
+.banner-content .sub-title,
+.banner-content .title > span,
+.banner-meta ul li.release-time > span > i,
+.banner-meta ul li.category > a:hover,
+.section-title .sub-title,
+.movie-content .top .date,
+.movie-content .bottom ul li .quality,
+.movie-content .bottom ul li > span i,
+.movie-content .top .title a:hover,
+.ucm-active .owl-nav button:hover,
+.ucm-active-two .owl-nav button:hover,
+.tr-movie-menu-active button.active,
+.footer-menu nav .navigation li:hover > a,
+.quick-link-list ul li a:hover,
+.footer-social ul li a:hover,
+.copyright-text > p > a,
+.mobile-menu .social-links li a:hover,
+.header-top-link .quick-link li a:hover,
+.header-top-link .header-social li a:hover,
+.header-top-subs > p > span,
+.movie-item-two .movie-content .title a:hover,
+.movie-content-bottom ul li.tag a:hover,
+.breadcrumb-content .breadcrumb li a,
+.breadcrumb-content .title > span {
+	color: #c49903;
+}
+.scroll-top,
+.btn:hover,
+.navbar-wrap > ul > li .submenu li a::before,
+.title-style-two .sub-title::before,
+.services-list ul li .icon::before,
+.tr-movie-menu-active button::before,
+.tr-movie-menu-active button::after {
+	background: #c49903;
+}
+
+/* button style */
+
+
+
+
+/* 7. Up-coming */
+.ucm-bg {
+    padding: 120px 0 70px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.ucm-bg::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #0e1014;
+    opacity: .99;
+}
+.ucm-bg-shape {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    opacity: .15;
+}
+.section-title .sub-title {
+    display: block;
+    line-height: 1;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 900;
+    position: relative;
+    margin-bottom: 12px;
+	letter-spacing: 1px;
+}
+.section-title .title {
+    margin-bottom: 0;
+    font-size: 36px;
+        font-weight: 900;
+
+}
+.ucm-nav-wrap .nav-tabs {
+	border: none;
+}
+.ucm-nav-wrap .nav-tabs .nav-link,
+.movie-bg .tr-movie-menu-active button,
+.movie-filter-form select {
+    border-radius: 50px;
+    background: #20212b;
+    font-size: 12px;
+    font-weight: 600;
+    color: #e3dfdf;
+    border: 2px solid #2d303d;
+    padding: 11px 27px;
+	margin-bottom: 0;
+	transition: none !important;
+}
+
+
+
+
+.ucm-nav-wrap .nav-tabs li {
+    margin-right: 12px;
+	margin-top: 12px;
+}
+.ucm-nav-wrap .nav-tabs li:last-child {
+	margin-right: 0;
+}
+.ucm-nav-wrap .nav-tabs .nav-link.active,
+.movie-bg .tr-movie-menu-active button.active {
+	color: #fff;
+	border-color: #c49903;
+}
+.ucm-nav-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    margin-right: 102px;
+}
+.movie-bg .tr-movie-menu-active {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-bottom: 0;
+}
+.movie-bg .tr-movie-menu-active button {
+    box-shadow: none;
+    margin: 10px 5px 0;
+    text-transform: capitalize;
+}
+.movie-bg .tr-movie-menu-active button::before,
+.movie-bg .tr-movie-menu-active button::after {
+    display: none;
+}
+.movie-bg .tr-movie-menu-active button.active {
+    text-shadow: none;
+}
+.movie-page-meta {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+.movie-filter-form {
+    margin: 10px 0 0px 5px;
+}
+.movie-filter-form select {
+    padding: 11px 35px 11px 25px;
+    outline: none;
+    min-height: 44px;
+    box-shadow: none;
+    background: #20212b url(../img/images/nw_selarw.png) no-repeat scroll 97.5% center;
+}
+.custom-select:focus {
+    border-color: #2d303d;
+    box-shadow: none;
+}
+.movie-poster img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+.movie-poster {
+    margin-bottom: 23px;
+    position: relative;
+}
+.movie-content .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.movie-content .top .title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 0;
+    flex-grow: 1;
+}
+.movie-content .top .date {
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 50px;
+}
+.movie-content .bottom ul {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.movie-content .bottom ul li .quality {
+    border: 2px solid #fff;
+    padding: 5px 10px;
+    line-height: 1;
+    font-weight: 700;
+	font-size: 11px;
+    text-transform: uppercase;
+}
+.movie-content .bottom ul li {
+	display: flex;
+	align-items: center;
+}
+.movie-content .bottom ul li .rating {
+	margin-left: 15px;
+}
+.movie-content .bottom ul li > span {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+.movie-content .bottom ul li > span i {
+	margin-right: 5px;
+}
+.movie-content {
+    padding-right: 10px;
+}
+.ucm-active .owl-nav,
+.ucm-active-two .owl-nav {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    border: 2px solid #2d303d;
+    color: #e3dfdf;
+    padding: 9.5px 19px;
+    border-radius: 50px;
+}
+.ucm-active.owl-carousel .owl-nav button.owl-prev,
+.ucm-active-two.owl-carousel .owl-nav button.owl-prev {
+    padding-right: 17px !important;
+    margin-right: 13px;
+	position: relative;
+}
+.ucm-active .owl-nav .owl-prev::before,
+.ucm-active-two .owl-nav .owl-prev::before {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 3px;
+    height: 26px;
+    background: #292b37;
+}
+.ucm-active .owl-nav button,
+.ucm-active-two .owl-nav button {
+    position: relative;
+	cursor: pointer;
+	transition: .3s linear;
+}
+.ucm-bg2 {
+    padding: 120px 0 90px;
+    background-position: top center;
+    background-size: cover;
+}
+.title-style-three {
+    position: relative;
+    padding-bottom: 20px;
+}
+.title-style-three::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-image: url(../img/images/title_shape.png);
+    width: 98px;
+    height: 7px;
+}
+.title-style-three .sub-title {
+    font-weight: 700;
+    color: #bcbcbc;
+}
+.movie-item-two {
+    text-align: center;
+    background: #1f1e24;
+    padding: 15px 15px 25px;
+}
+.movie-item-two .movie-content {
+    padding: 0;
+}
+.movie-item-two .movie-content > .rating {
+    font-size: 10px;
+    letter-spacing: -.5px;
+    color: #c49903;
+    margin-bottom: 10px;
+}
+.movie-item-two .movie-content .title {
+    font-size: 16px;
+    font-weight: 600;
+    color: #d5d5d5;
+    margin-bottom: 12px;
+}
+.movie-item-two .movie-content .rel {
+    display: block;
+    font-size: 12px;
+    color: #9d9b9b;
+}
+.movie-content-bottom ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 15px;
+    margin-top: 25px;
+    position: relative;
+}
+.movie-content-bottom ul::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 1px;
+    background: #000000;
+}
+.movie-content-bottom ul::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 1px;
+    width: 100%;
+    height: 1px;
+    background: #27272f;
+}
+.movie-content-bottom ul li.tag {
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    margin-right: 30px;
+}
+.movie-content-bottom ul li.tag a {
+    display: block;
+    color: #4c5066;
+    background: #02050a;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 7px 12px;
+    line-height: 1;
+    margin-right: 10px;
+}
+.movie-content-bottom ul li.tag a:last-child {
+    margin-right: 0;
+}
+.movie-content-bottom ul li .like {
+    font-size: 13px;
+    color: #9d9b9b;
+}
+.movie-content-bottom ul li .like i {
+    font-size: 12px;
+    margin-right: 5px;
+    color: #c77f01;
+}
+.movie-bg {
+    background-position: top center;
+    background-size: cover;
+    padding: 120px 0 120px;
+}
+
+h2.title{
+    color: #FFFFFF;
+}
+
+.movie-content h5.title, .movie-content h5.title a
+{
+    color: #FFFFFF;
+}
+
+
+
+
+
+/* 20. Preloader */
+#preloader{
+	background-color: #171D22;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	margin-top: 0px;
+	top: 0px;
+	z-index: 99;
+}
+#loading-center{
+	width: 100%;
+	height: 100%;
+	position: relative;
+}
+#loading-center-absolute {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
