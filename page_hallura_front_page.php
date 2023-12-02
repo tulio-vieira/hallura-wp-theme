@@ -269,8 +269,6 @@ get_header(); ?>
           <div class="col-lg-6">
             <div class="ucm-nav-wrap">
               <ul class="nav nav-tabs" id="myTab" role="tablist">
-                
-
               </ul>
             </div>
           </div>
@@ -690,12 +688,9 @@ get_header(); ?>
       </div>
     </section>
 
-
-
     <!--== Video End ==-->
     <section class="grey-bg pb-0">
     </section>
-
 
     <section class="white-bg pb-0" id="service1">
       <div class="container">
@@ -717,7 +712,102 @@ get_header(); ?>
         </a>
       </div>
     </section>
-  <h1>end</h1>
+
+
+    <!--== Contact Start ==-->
+    <section class="parallax-bg fixed-bg sm-pb-80 sm-pt-80" data-parallax-bg-image="<?php echo get_stylesheet_directory_uri() . '/assets/images/background/fundoh.jpg' ?>"
+      data-parallax-speed="0.5" data-parallax-direction="up" id="contact">
+      <div class="overlay-bg"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 centerize-col text-center">
+            <div class="section-title">
+              <h1 class="raleway-font white-color">Contact Us</h1>
+              <hr class="center_line default-bg">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row mt-70">
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <form name="contact-form" id="contact-form" action="php/contact.php" method="POST"
+              class="contact-form-style-01 xs-mb-50">
+              <div class="messages"></div>
+              <div class="row">
+                <div class="col-md-6 col-sm-6">
+                  <div class="form-group">
+                    <label class="sr-only" for="name">Name</label>
+                    <input type="text" name="name" class="md-input style-02" id="name" placeholder="Name *" required
+                      data-error="Your Name is Required">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                  <div class="form-group">
+                    <label class="sr-only" for="email">Email</label>
+                    <input type="email" name="email" class="md-input style-02" id="email" placeholder="Email *" required
+                      data-error="Please Enter Valid Email">
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-sm-12">
+                  <div class="form-group">
+                    <label class="sr-only" for="message">Project Details</label>
+                    <textarea name="message" class="md-textarea style-02" id="message" rows="7"
+                      placeholder="Project Details" required data-error="Please, Leave us a message"></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-12 col-sm-12">
+                  <div class="text-left">
+                    <button type="submit" name="submit"
+                      class="hallura-button"><span>Send Message <i
+                          class="ion-android-arrow-forward"></i></span></button>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+
+          <div class="col-md-6 col-sm-6 col-xs-12 xs-mb-50">
+            <div class="row">
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="section-title">
+                  <h2 class="raleway-font default-color">Postal Address</h2>
+                  <p class="mt-30" style="color: #FFFFFF;">Israel - Address: 1080 - Tel Aviv</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="section-title">
+                  <h2 class="raleway-font default-color">Office Numbers</h2>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF;">Landline : +00 0000 0000</p>
+                  <p class="mb-0" style="color: #FFFFFF;">Mobile : +00 0000 0000</p>
+                </div>
+              </div>
+            </div>
+            <div class="row mt-20">
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="section-title">
+                  <h2 class="raleway-font default-color">Our Email</h2>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF;">Order : hallura@hallura.com</p>
+                  <p class="mb-0" style="color: #FFFFFF">Request : hallura@hallura.com</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-12">
+                <div class="section-title">
+                  <h2 class="raleway-font default-color">Fast Support</h2>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF">Support : hallura@hallura.com</p>
+                  <p class="mb-0" style="color: #FFFFFF">Career : hallura@hallura.com</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
 
 </main><!-- #main -->
 

@@ -28,6 +28,7 @@ function register_hallura_styles_and_scripts() {
         wp_enqueue_style( 'hallura-bootstrap', get_stylesheet_directory_uri() . "/assets/css/bootstrap.min.css");
         
         wp_enqueue_style( 'hallura-core', get_stylesheet_directory_uri() . '/assets/css/master.css', [] );
+        wp_enqueue_style( 'hallura-responsive', get_stylesheet_directory_uri() . '/assets/css/responsive.css', [] );
         wp_enqueue_style( 'hallura-front-page', get_stylesheet_directory_uri() . '/hallura-front-page.css', [] );
 
         wp_enqueue_style( 'hallura-revolution-settings', get_stylesheet_directory_uri() . '/revolution/css/settings.css', [] );
