@@ -5,6 +5,27 @@
 
 get_header(); ?>
 
+<!--== Loader Start ==-->
+<div id="loader-overlay">
+  <div class="loader">
+    <div class="spinner">
+    	<svg viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    		<circle class="length" fill="none" stroke-width="8" stroke-linecap="round" cx="33" cy="33" r="28"></circle>
+    	</svg>
+    	<svg viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    		<circle fill="none" stroke-width="8" stroke-linecap="round" cx="33" cy="33" r="28"></circle>
+    	</svg>
+    	<svg viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    		<circle fill="none" stroke-width="8" stroke-linecap="round" cx="33" cy="33" r="28"></circle>
+    	</svg>
+    	<svg viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+    		<circle fill="none" stroke-width="8" stroke-linecap="round" cx="33" cy="33" r="28"></circle>
+    	</svg>
+    </div>
+  </div>
+</div>
+<!--== Loader End ==-->
+
 <main id="main" class="site-main" role="main">
     <!--== Who We Are Start ==-->
     <section class="white-bg xs-pb-100" id="about" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/bg-text.jpg' ?>'); background-size: cover;">
