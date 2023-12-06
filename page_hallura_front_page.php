@@ -752,43 +752,7 @@ get_header(); ?>
       <div class="container">
         <div class="row mt-70">
           <div class="col-md-6 col-sm-6 col-xs-12">
-            <form name="contact-form" id="contact-form" action="php/contact.php" method="POST"
-              class="contact-form-style-01 xs-mb-50">
-              <div class="messages"></div>
-              <div class="row">
-                <div class="col-md-6 col-sm-6">
-                  <div class="form-group">
-                    <label class="sr-only" for="name">Name</label>
-                    <input type="text" name="name" class="md-input style-02" id="name" placeholder="Name *" required
-                      data-error="Your Name is Required">
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-6 col-sm-6">
-                  <div class="form-group">
-                    <label class="sr-only" for="email">Email</label>
-                    <input type="email" name="email" class="md-input style-02" id="email" placeholder="Email *" required
-                      data-error="Please Enter Valid Email">
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                  <div class="form-group">
-                    <label class="sr-only" for="message">Project Details</label>
-                    <textarea name="message" class="md-textarea style-02" id="message" rows="7"
-                      placeholder="Project Details" required data-error="Please, Leave us a message"></textarea>
-                    <div class="help-block with-errors"></div>
-                  </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                  <div class="text-left">
-                    <button type="submit" name="submit"
-                      class="hallura-button"><span>Send Message <i
-                          class="ion-android-arrow-forward"></i></span></button>
-                  </div>
-                </div>
-              </div>
-            </form>
+            <?php echo do_shortcode("[hf_form slug='contact-form']"); ?>
           </div>
 
           <div class="col-md-6 col-sm-6 col-xs-12 xs-mb-50">
@@ -828,8 +792,6 @@ get_header(); ?>
         </div>
       </div>
     </section>
-
-
 </main><!-- #main -->
 
 
