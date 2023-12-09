@@ -2,6 +2,9 @@
 // Exit if accessed directly
 if ( !defined( 'ABSPATH' ) ) exit;
 
+$theme = wp_get_theme();
+define('THEME_VERSION', $theme->Version); //gets version written in your style.css
+
 // BEGIN ENQUEUE PARENT ACTION
 // AUTO GENERATED - Do not modify or remove comment markers above or below:
 
@@ -29,7 +32,7 @@ function register_hallura_styles_and_scripts() {
         
         wp_enqueue_style( 'hallura-core', get_stylesheet_directory_uri() . '/assets/css/master.css', [] );
         wp_enqueue_style( 'hallura-responsive', get_stylesheet_directory_uri() . '/assets/css/responsive.css', [] );
-        wp_enqueue_style( 'hallura-front-page', get_stylesheet_directory_uri() . '/hallura-front-page.css', [] );
+        wp_enqueue_style( 'hallura-front-page', get_stylesheet_directory_uri() . '/hallura-front-page.css', [], THEME_VERSION );
 
         wp_enqueue_style( 'hallura-revolution-settings', get_stylesheet_directory_uri() . '/revolution/css/settings.css', [] );
         wp_enqueue_style( 'hallura-revolution-layers', get_stylesheet_directory_uri() . '/revolution/css/layers.css', [] );
