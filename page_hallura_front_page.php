@@ -32,7 +32,7 @@ get_header(); ?>
       <div class="container">
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
-            <div class="section-title">
+            <div class="section-title who-we-are">
               <h2 class="raleway-font default-color"></h2>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/Hallura-Stamp.png' ?>" alt="" width="15%">
               <h3 class="raleway-font">As we move towards natural beauty, Hallura™ developed the next generation of HA fillers, providing the ultimate choice empowering YOU at your Natural, Beautiful and Confident self.</h3>
@@ -209,7 +209,7 @@ get_header(); ?>
           </div>
         </div>
 
-        <div class="row">
+        <div class="row" style="margin-bottom:30px">
           <div class="col-md-12 remove-padding default-bg">
             <p class="mt-0 centerize-col text-center pt-60 pb-60 mb-0">
               <a class="hallura-button">View Technology</a>
@@ -305,7 +305,7 @@ get_header(); ?>
                 </div>
                 <div class="movie-content">
                   <div class="top">
-                    <h5 class="title">NFL - Dermatology Treatment</h5>
+                    <h5 class="title">NLF - Dermatology Treatment</h5>
                     <span class="date"></span>
                   </div>
                   <div class="bottom">
@@ -358,7 +358,7 @@ get_header(); ?>
                 </div>
                 <div class="movie-content">
                   <div class="top">
-                    <h5 class="title">NFL - Dermatology Treatment</h5>
+                    <h5 class="title">NLF - Dermatology Treatment</h5>
                   </div>
                   <div class="bottom">
                     <ul>

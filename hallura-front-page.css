@@ -55,3 +55,11 @@
     border-color: #fff;
     background-color: #fff;
 }
+
+.o-team-media-img img {
+    vertical-align: bottom;
+}
+
+.who-we-are h3 {
+    font-weight: 300;
+}
