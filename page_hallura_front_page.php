@@ -212,7 +212,7 @@ get_header(); ?>
         <div class="row" style="margin-bottom:30px">
           <div class="col-md-12 remove-padding default-bg">
             <p class="mt-0 centerize-col text-center pt-60 pb-60 mb-0">
-              <a class="hallura-button">View Technology</a>
+              <a href="/technology" class="hallura-button">View Technology</a>
             </p>
           </div>
         </div>
