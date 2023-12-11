@@ -571,10 +571,7 @@ get_header(); ?>
                   <h5 class="mt-10 white-color text-uppercase">Stéphane Meunier</h5>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
-                    <a href="https://www.instagram.com" class="o-team-social-icon" target="_blank">
-                      <span class="icofont icofont-instagram"></span>
-                    </a>
-                    <a href="https://www.linkedin.com/in/smeunier/?originalSubdomain=il" class="o-team-social-icon"
+                    <a href="https://il.linkedin.com/in/smeunier" class="o-team-social-icon"
                       target="_blank">
                       <span class="icofont icofont-linkedin"></span>
                     </a>
@@ -623,10 +620,8 @@ get_header(); ?>
                   <h5 class="mt-10 white-color text-uppercase">Paul Navarre</h5>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
-                    <a href="https://www.behance.net/designsninja" class="o-team-social-icon" target="_blank">
-                      <span class="icofont icofont-instagram"></span>
-                    </a>
-                    <a href="https://dribbble.com/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://www.linkedin.com/in/panavarre/" class="o-team-social-icon"
+                      target="_blank">
                       <span class="icofont icofont-linkedin"></span>
                     </a>
                   </div>
@@ -648,10 +643,11 @@ get_header(); ?>
                   <h5 class="mt-10 white-color text-uppercase">Per Hedén</h5>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
-                    <a href="https://www.behance.net/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://www.instagram.com/per_heden/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
                     </a>
-                    <a href="https://dribbble.com/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://se.linkedin.com/in/per-hed%C3%A9n-68a08a27" class="o-team-social-icon"
+                      target="_blank">
                       <span class="icofont icofont-linkedin"></span>
                     </a>
                   </div>
@@ -671,11 +667,8 @@ get_header(); ?>
                   <h5 class="mt-10 white-color text-uppercase">Alona Gellerman</h5>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
-                    <a href="https://www.behance.net/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://www.instagram.com/alonagellerman/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
-                    </a>
-                    <a href="https://dribbble.com/designsninja" class="o-team-social-icon" target="_blank">
-                      <span class="icofont icofont-linkedin"></span>
                     </a>
                   </div>
                 </div>
@@ -694,10 +687,11 @@ get_header(); ?>
                   <h5 class="mt-10 white-color text-uppercase">Shimon Eckhouse</h5>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
-                    <a href="https://www.behance.net/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://www.instagram.com/eckhouseshimon/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
                     </a>
-                    <a href="https://dribbble.com/designsninja" class="o-team-social-icon" target="_blank">
+                    <a href="https://www.linkedin.com/in/shimon-eckhouse-b993806/" class="o-team-social-icon"
+                      target="_blank">
                       <span class="icofont icofont-linkedin"></span>
                     </a>
                   </div>
@@ -718,15 +712,13 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <a href="https://www.instagram.com/instagram/">
-                <h1 class="raleway-font">Follow us on Instagram</h1>
-              </a>
+              <h1 class="raleway-font">Follow us on Instagram</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
         </div>
 
-        <a href="https://www.instagram.com/instagram/">
+        <a href="https://www.instagram.com/hallura.io/" target="_blank">
           <div class="col-md-12 text-center">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/screenimg2.png' ?>" alt="xtract-img" class="img-responsive screens" />
           </div>
@@ -766,8 +758,7 @@ get_header(); ?>
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="section-title">
                   <h2 class="raleway-font default-color">Office Numbers</h2>
-                  <p class="mb-0 mt-30" style="color: #FFFFFF;">Landline : +00 0000 0000</p>
-                  <p class="mb-0" style="color: #FFFFFF;">Mobile : +00 0000 0000</p>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF;">Phone : +972 4 8550240</p>
                 </div>
               </div>
             </div>
@@ -775,15 +766,7 @@ get_header(); ?>
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="section-title">
                   <h2 class="raleway-font default-color">Our Email</h2>
-                  <p class="mb-0 mt-30" style="color: #FFFFFF;">Order : hallura@hallura.com</p>
-                  <p class="mb-0" style="color: #FFFFFF">Request : hallura@hallura.com</p>
-                </div>
-              </div>
-              <div class="col-md-6 col-sm-6 col-xs-12">
-                <div class="section-title">
-                  <h2 class="raleway-font default-color">Fast Support</h2>
-                  <p class="mb-0 mt-30" style="color: #FFFFFF">Support : hallura@hallura.com</p>
-                  <p class="mb-0" style="color: #FFFFFF">Career : hallura@hallura.com</p>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF;">info@hallura.com</p>
                 </div>
               </div>
             </div>

@@ -18,11 +18,8 @@
 	<span class="copyright">
 		<span>© 2024 Hallura. All rights reserved</span>
 		<span class="social-media">
-			<a href="#" class="icofont icofont-facebook"></a>
-			<a href="#" class="icofont icofont-twitter"></a>
-			<a href="#" class="icofont icofont-behance"></a>
-			<a href="#" class="icofont icofont-dribble"></a>
-			<a href="#" class="icofont icofont-linkedin"></a>
+			<a href="https://www.instagram.com/hallura.io/" target="_blank" class="icofont icofont-instagram"></a>
+			<a href="https://il.linkedin.com/company/hallura" target="_blank" class="icofont icofont-linkedin"></a>
 		</span>
 	</span>
 </div><!-- .site-info -->
