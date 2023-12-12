@@ -277,8 +277,8 @@ get_header(); ?>
 
 
 
-    <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/bg/ucm_bg.jpg' ?>">
-      <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/bg/ucm_bg_shape.png' ?>"></div>
+    <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/ucm_bg.jpg' ?>">
+      <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/ucm_bg_shape.png' ?>"></div>
       <div class="container">
         <div class="row align-items-end mb-55">
           <div class="col-lg-6">
@@ -301,73 +301,69 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/poster/s_ucm_poster01.jpg' ?>" alt="">
-                </div>
-                <div class="movie-content">
-                  <div class="top">
-                    <h5 class="title">NLF - Dermatology Treatment</h5>
-                    <span class="date"></span>
-                  </div>
-                  <div class="bottom">
-                    <ul>
-                      <li>
-                        <span class="duration"><i class="far fa-clock"></i> BASELINE - 12M<br> Before Treatment: L(3) R(3)<br> Ini tt: Left 0.8 mL Right 0.8 mL</span> 
-
-                      </li>
-                    </ul>
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result1.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
                   </div>
                 </div>
+                <h5 class="hallura-result-title">LIPS</h5>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/poster/s_ucm_poster02.jpg' ?>" alt="">
-                </div>
-                <div class="movie-content">
-                  <div class="top">
-                    <h5 class="title">LIP Filling</h5>
-                  </div>
-                  <div class="bottom">
-                    <ul>
-                      <li>
-                        <span class="duration"><i class="far fa-clock"></i> BASELINE - 12M<br> Before Treatment: 1.5 <br> Ini tt UL: 1.6ml / Ini tt LL 1.4 ml</span> 
-                      </li>
-                    </ul>
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result2.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
                   </div>
                 </div>
+                <h5 class="hallura-result-title">NLF</h5>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/poster/s_ucm_poster03.jpg' ?>" alt="">
-                </div>
-                <div class="movie-content">
-                  <div class="top">
-                    <h5 class="title">LIP Filling</h5>
-                  </div>
-                  <div class="bottom">
-                    <ul>
-                      <li>
-                        <span class="duration"><i class="far fa-clock"></i> BASELINE - 15M</span>
-                      </li>
-                    </ul>
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
                   </div>
                 </div>
+                <h5 class="hallura-result-title">CHEEKS</h5>
               </div>
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/img/poster/s_ucm_poster04.jpg' ?>" alt="">
-                </div>
-                <div class="movie-content">
-                  <div class="top">
-                    <h5 class="title">NLF - Dermatology Treatment</h5>
-                  </div>
-                  <div class="bottom">
-                    <ul>
-                      <li>
-                        <span class="duration"><i class="far fa-clock"></i> BASELINE - 12M<br> Before Treatment: L(3) R(3) <br> Ini tt: Left 1.7 mL Right 1.7 mL</span> 
-                      </li>
-                    </ul>
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result4.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
                   </div>
                 </div>
+                <h5 class="hallura-result-title">LIPS</h5>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result5.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+                <h5 class="hallura-result-title">NLF</h5>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result6.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+                <h5 class="hallura-result-title">LIPS</h5>
               </div>
             </div>
           </div>
