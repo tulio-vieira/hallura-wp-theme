@@ -277,8 +277,8 @@ get_header(); ?>
 
 
 
-    <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/ucm_bg.jpg' ?>">
-      <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/ucm_bg_shape.png' ?>"></div>
+    <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg.jpg' ?>">
+      <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg_shape.png' ?>"></div>
       <div class="container">
         <div class="row align-items-end mb-55">
           <div class="col-lg-6">
