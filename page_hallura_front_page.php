@@ -449,7 +449,7 @@ get_header(); ?>
       </div>
       <div class="container-fluid">
         <div class="row mt-50">
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -458,8 +458,12 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Stéphane Meunier</h5>
-                  <p class="default-color"></p>
+                  <h4 class="mt-10 white-color text-uppercase">Stéphane Meunier</h4>
+                  <ul class="white-color">
+                    <li>10+ years experience in HA Fillers</li>
+                    <li>Former R&D and Clinical Director of Teoxane (2009 - 2017)</li>
+                    <li>Academic researcher (France, US)</li>
+                  </ul>
                   <div class="o-team-social-icons">
                     <a href="https://il.linkedin.com/in/smeunier" class="o-team-social-icon"
                       target="_blank">
@@ -472,7 +476,7 @@ get_header(); ?>
           </div>
           <!--== Member End ==-->
 
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -481,8 +485,11 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Brad Calobrace</h5>
-                  <p class="default-color"></p>
+                  <h4 class="mt-10 white-color text-uppercase">Brad Calobrace</h4>
+                  <ul class="white-color">
+                    <li>World-renowed Board-certified plastic surgeon</li>
+                    <li>Founder of CaloAesthetics Plastic Surgery Center and CaloSpa Rejuvenation Center in Louisville, KY.</li>
+                  </ul>
                   <div class="o-team-social-icons">
                     <a href="https://www.instagram.com/calobrace/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
@@ -498,7 +505,7 @@ get_header(); ?>
           </div>
           <!--== Member End ==-->
 
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -507,7 +514,10 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Paul Navarre</h5>
+                  <h4 class="mt-10 white-color text-uppercase">Paul Navarre</h4>
+                  <ul class="white-color">
+                    <li>Former President of Allergan International and Chief Executive Officer of Ferring Holding Inc (US)</li>
+                  </ul>
                   <p class="default-color"></p>
                   <div class="o-team-social-icons">
                     <a href="https://www.linkedin.com/in/panavarre/" class="o-team-social-icon"
@@ -521,7 +531,7 @@ get_header(); ?>
           </div>
           <!--== Member End ==-->
 
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -530,8 +540,12 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Per Hedén</h5>
-                  <p class="default-color"></p>
+                  <h4 class="mt-10 white-color text-uppercase">Per Hedén</h4>
+                  <ul class="white-color">
+                    <li>World-renowed Associate Professor in Plastic Surgery</li>
+                    <li>Founder and Head of Akademikliniken</li>
+                    <li>President of BTS congress</li>
+                  </ul>
                   <div class="o-team-social-icons">
                     <a href="https://www.instagram.com/per_heden/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
@@ -545,7 +559,7 @@ get_header(); ?>
               </div>
             </div>
           </div>
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -554,8 +568,12 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Alona Gellerman</h5>
-                  <p class="default-color"></p>
+                  <h4 class="mt-10 white-color text-uppercase">Alona Gellerman</h4>
+                  <ul class="white-color">
+                    <li>VP for business Development and KOLs relationship</li>
+                    <li>Former VP Marketing</li>
+                    <li>Medical Education in Allergan, Teoxane and Merz</li>
+                  </ul>
                   <div class="o-team-social-icons">
                     <a href="https://www.instagram.com/alonagellerman/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
@@ -565,7 +583,7 @@ get_header(); ?>
               </div>
             </div>
           </div>
-          <div class="col-md-2 col-sm-6 col-xs-12 remove-padding">
+          <div class="col-md-4 col-sm-6 col-xs-12 remove-padding">
             <div class="o-team-wrap">
               <div class="o-team-img">
                 <div class="o-team-media-img">
@@ -574,8 +592,10 @@ get_header(); ?>
               </div>
               <div class="o-tean-content">
                 <div class="o-tean-content-inner">
-                  <h5 class="mt-10 white-color text-uppercase">Shimon Eckhouse</h5>
-                  <p class="default-color"></p>
+                  <h4 class="mt-10 white-color text-uppercase">Shimon Eckhouse</h4>
+                  <ul class="white-color">
+                    <li>Founder and Investor in 20+ companies, among them global companies such as Syneron, Lumenis and Ventor</li>
+                  </ul>
                   <div class="o-team-social-icons">
                     <a href="https://www.instagram.com/eckhouseshimon/" class="o-team-social-icon" target="_blank">
                       <span class="icofont icofont-instagram"></span>
