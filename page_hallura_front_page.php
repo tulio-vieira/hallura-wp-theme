@@ -334,7 +334,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font white-color">Our Testimonials</h1>
+              <h1 class="raleway-font white-color">What our product users have to say...</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
