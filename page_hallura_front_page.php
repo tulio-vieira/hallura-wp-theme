@@ -82,7 +82,6 @@ get_header(); ?>
     </section>
     <!--== About Company End ==-->
 
-    <!--== Video Start ==-->
     <section class="parallax-bg fixed-bg sm-pb-80 sm-pt-80" data-parallax-bg-image="<?php echo get_stylesheet_directory_uri() . '/assets/images/mulherr.png' ?>"
       data-parallax-speed="0.5" data-parallax-direction="up">
       <source src="<?php echo get_stylesheet_directory_uri() . '/assets/images/mulherr.png' ?>" type="image/png">
@@ -128,64 +127,6 @@ get_header(); ?>
         </div>
       </div>
     </section>
-    <!--== Video End ==-->
-
-    <section class="white-bg xs-pb-100" id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 centerize-col text-center">
-            <div class="section-title">
-              <h2 class="raleway-font default-color"></h2>
-              <h1 class="raleway-font">What makes Hallura™ <br>the ultimate
-                choice</h1>
-            </div>
-          </div>
-        </div>
-        <div class="row mt-50">
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
-              <i class="fa-solid fa-leaf font-40px"></i>
-              <h4 class="mt-0 font-600">Natural</h4>
-              <p class="font-400">With about 99% HA in its natural state and up to 4 times less HA content,
-                Hallura is the most natural HA filler.</p>
-              <br>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
-              <i class="fa-solid fa-check font-40px"></i>
-              <h4 class="mt-0 font-600">Efficient</h4>
-              <p class="font-400">Unique elastic properties enable superior intrinsic lifting force. Hallura gels
-                promote collagen and elastin formation for long-lasting natural results.</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
-            <div class="feature-box text-center feature-box-default-bg center-feature">
-              <i class="fa-solid fa-lock font-40px"></i>
-              <h4 class="mt-0 font-600">Safe</h4>
-              <p class="font-400">Hallura’s ultra-pure HA integrates naturally, homogenously and seamlessly into
-                the tissue.
-                <br><br>
-
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-      
-      
-    <!--== Counters Start ==-->
-   
-    <!--== Counters End ==-->
-
-    <!--== Services Start ==-->
-    <section class="white-bg pb-0" id="service">
-     
-    </section>
-
-
-
 
     <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg.jpg' ?>">
       <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg_shape.png' ?>"></div>
@@ -281,6 +222,49 @@ get_header(); ?>
       </div>
     </section>
 
+    <section class="white-bg xs-pb-100" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 centerize-col text-center">
+            <div class="section-title">
+              <h2 class="raleway-font default-color"></h2>
+              <h1 class="raleway-font">What makes Hallura™ <br>the ultimate
+                choice</h1>
+            </div>
+          </div>
+        </div>
+        <div class="row mt-50">
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
+              <i class="fa-solid fa-leaf font-40px"></i>
+              <h4 class="mt-0 font-600">Natural</h4>
+              <p class="font-400">With about 99% HA in its natural state and up to 4 times less HA content,
+                Hallura is the most natural HA filler.</p>
+              <br>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
+              <i class="fa-solid fa-check font-40px"></i>
+              <h4 class="mt-0 font-600">Efficient</h4>
+              <p class="font-400">Unique elastic properties enable superior intrinsic lifting force. Hallura gels
+                promote collagen and elastin formation for long-lasting natural results.</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="feature-box text-center feature-box-default-bg center-feature">
+              <i class="fa-solid fa-lock font-40px"></i>
+              <h4 class="mt-0 font-600">Safe</h4>
+              <p class="font-400">Hallura’s ultra-pure HA integrates naturally, homogenously and seamlessly into
+                the tissue.
+                <br><br>
+
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="white-bg pb-0" id="service">
       <div class="container">
