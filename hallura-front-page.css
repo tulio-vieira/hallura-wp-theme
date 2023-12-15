@@ -92,6 +92,12 @@
     flex: 1;
 }
 
+@media (max-width: 560px) {
+    .hallura-row {
+        flex-direction: column;
+    }
+}
+
 .hallura-container {
     display: flex;
     flex-direction: column;
