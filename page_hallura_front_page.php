@@ -227,20 +227,10 @@ get_header(); ?>
           </div>
         </div>
         <h3 class="raleway-font text-center">While all HA fillers are crosslinked, Hallura developed BiOLinkMatrix "local-key" cross-linking, perfectly elastic compared to current HA in the market.</h3>
-        <div class="hallura-row">
+        <div class="col-md-6 col-xs-12 remove-padding">
           <div>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix.png' ?>" alt="">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/currenthaa.png' ?>" alt="">
           </div>
-          <div class="hallura-container">
-            <h3 class="raleway-font text-center">BiOLinkMatrix:</h3>
-            <ul>
-              <li>Sustains the integrity of long polymer chains</li>
-              <li>Exhibits pure elasticiy</li>
-              <li>Utilizes granular, harder materials for a natural and youthful look</li>
-            </ul>
-          </div>
-        </div>
-        <div class="hallura-row">
           <div class="hallura-container">
             <h3 class="raleway-font hallura-main text-center">Current HA:</h3>
             <ul>
@@ -249,8 +239,18 @@ get_header(); ?>
               <li>Formation of granular, harder materials</li>
             </ul>
           </div>
+        </div>
+        <div class="col-md-6 col-xs-12 remove-padding">
+          <div class="hallura-container">
+            <h3 class="raleway-font text-center">BiOLinkMatrix:</h3>
+            <ul style="text-align: left">
+              <li>Sustains the integrity of long polymer chains</li>
+              <li>Exhibits pure elasticiy</li>
+              <li>Utilizes granular, harder materials for a natural and youthful look</li>
+            </ul>
+          </div>
           <div>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/currenthaa.png' ?>" alt="">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix.png' ?>" alt="">
           </div>
         </div>
       </div>

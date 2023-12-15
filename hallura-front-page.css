@@ -84,20 +84,6 @@
     border-right: 1px solid #323232;
 }
 
-.hallura-row {
-    display: flex;
-}
-
-.hallura-row > * {
-    flex: 1;
-}
-
-@media (max-width: 560px) {
-    .hallura-row {
-        flex-direction: column;
-    }
-}
-
 .hallura-container {
     display: flex;
     flex-direction: column;
