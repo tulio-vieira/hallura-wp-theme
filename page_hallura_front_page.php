@@ -32,7 +32,7 @@ get_header(); ?>
       <div class="container">
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
-            <div class="section-title who-we-are">
+            <div class="section-title hallura-section">
               <h2 class="raleway-font default-color"></h2>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-stamp.png' ?>" alt="" width="50%">
               <h3 class="raleway-font">As we move towards natural beauty, Hallura™ developed the next generation of HA fillers, providing the ultimate choice empowering YOU at your Natural, Beautiful and Confident self.</h3>
@@ -221,15 +221,54 @@ get_header(); ?>
         </div>
       </div>
     </section>
+    
+    <section class="white-bg xs-pb-100" id="revolution">
+      <div class="container hallura-section">
+        <div class="row">
+          <div class="col-md-8 centerize-col text-center">
+            <div class="section-title">
+              <h1 class="raleway-font">The Revolution</h1>
+              <hr class="center_line default-bg">
+            </div>
+          </div>
+        </div>
+        <h3 class="raleway-font text-center">While all HA fillers are crosslinked, Hallura developed BiOLinkMatrix "local-key" cross-linking, perfectly elastic compared to current HA in the market.</h3>
+        <div class="hallura-row">
+          <div>
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix.png' ?>" alt="">
+          </div>
+          <div class="hallura-container">
+            <h3 class="raleway-font text-center">BiOLinkMatrix:</h3>
+            <ul>
+              <li>Sustains the integrity of long polymer chains</li>
+              <li>Exhibits pure elasticiy</li>
+              <li>Utilizes granular, harder materials for a natural and youthful look</li>
+            </ul>
+          </div>
+        </div>
+        <div class="hallura-row">
+          <div class="hallura-container">
+            <h3 class="raleway-font hallura-main text-center">Current HA:</h3>
+            <ul>
+              <li>Damages HA polymer chains</li>
+              <li>Resultant loss of elasticity</li>
+              <li>Formation of granular, harder materials</li>
+            </ul>
+          </div>
+          <div>
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/currenthaa.png' ?>" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section>
 
     <section class="white-bg xs-pb-100" id="about">
       <div class="container">
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h2 class="raleway-font default-color"></h2>
-              <h1 class="raleway-font">What makes Hallura™ <br>the ultimate
-                choice</h1>
+              <h1 class="raleway-font">What makes Hallura™ <br>the ultimate choice</h1>
             </div>
           </div>
         </div>
