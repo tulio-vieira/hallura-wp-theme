@@ -240,7 +240,7 @@ get_header(); ?>
             </ul>
           </div>
         </div>
-        <div class="col-md-6 col-xs-12 remove-padding">
+        <div class="col-md-6 col-xs-12 remove-padding hallura-col-reverse">
           <div class="hallura-container">
             <h3 class="raleway-font text-center">BiOLinkMatrix:</h3>
             <ul style="text-align: left">

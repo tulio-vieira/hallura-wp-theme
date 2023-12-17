@@ -90,6 +90,14 @@
     justify-content: center;
 }
 
+
+@media (max-width:991px) {
+    .hallura-col-reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
 .hallura-container h3 {
     color: #c49903;
     font-weight: bold !important;
