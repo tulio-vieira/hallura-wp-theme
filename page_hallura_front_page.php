@@ -335,10 +335,6 @@ get_header(); ?>
             </div>
           </div>
         </div>
-        <div class="col-md-12 text-center">
-          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/screenpic.png' ?>" alt="xtract-img" class="img-responsive screens" />
-        </div>
-
       </div>
     </section>
 
