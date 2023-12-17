@@ -685,7 +685,7 @@ get_header(); ?>
             <?php echo do_shortcode("[hf_form slug='contact-form']"); ?>
           </div>
 
-          <div class="col-md-6 col-sm-6 col-xs-12 xs-mb-50">
+          <div class="col-md-6 col-sm-6 col-xs-12 xs-mb-50 xs-mt-30">
             <div class="row">
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="section-title">
