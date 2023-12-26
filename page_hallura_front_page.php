@@ -50,12 +50,12 @@ get_header(); ?>
     <!--== About Company Start ==-->
     <section class="grey-bg xs-pb-60">
       <div class="col-md-6 col-sm-6 bg-flex bg-flex-left">
-        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/stephane.jpg' ?>);">
+        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/placeholder.jpeg' ?>);">
           <div class="video-box_overlay">
             <div class="center-layout">
-              <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
+              <!-- <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
                   <div class="play-button"><i class="tr-icon ion-android-arrow-dropright"></i></div>
-                </a> </div>
+                </a> </div> -->
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ get_header(); ?>
       <div class="container-fluid">
         <div class="col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6">
           <div class="col-inner spacer text-left">
-            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">Our CEO and Founder explains how it works!</h1>
+            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">How Hallura works</h1>
             <p class="mt-30 intro">Hallura's BioLinkMatrix, a groundbreaking advancement in dermal filler technology, is transforming the landscape of hyaluronic acid (HA) cross-linking.
                 <br>
                  <br>
