@@ -84,7 +84,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font white-color">Amazing results</h1>
+              <h1 class="raleway-font white-color">Hallura's Benefits</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
@@ -93,29 +93,25 @@ get_header(); ?>
           <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.1s">
               <i class="fa-solid fa-arrow-up-short-wide font-60px"></i>
-              <h2><span class="counter font-600">104</span>%</h2>
-              <h3 class="font-200">Increase of elastin formation.</h3>
+              <h3 class="mt-30 font-200">The only HA based on long chains unlike other HA in the market that contain short chains</h3>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.2s">
-              <i class="fa-regular fa-clock font-60px"></i>
-              <h2><span class="counter font-600">88</span>%</h2>
-              <h3 class="dark-color font-200">Patients see improvement during the treatment</h3>
+              <i class="fa-solid fa-star font-70px"></i>
+              <h3 class="mt-30 dark-color font-200">The safest HA filler superior to any other leading HA brands that are currently on the market</h3>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.3s">
-              <i class="fa-solid fa-star font-70px"></i>
-              <h2><span class="counter font-600">100</span>%</h2>
-              <h3 class="dark-color font-200">Excellent Tolerance</h3>
+              <i class="fa-regular fa-clock font-60px"></i>
+              <h3 class="mt-30 dark-color font-200">Duration: Very long-lasting results (over 18 months)</h3>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.4s">
               <i class="fa-solid fa-leaf font-70px"></i>
-              <h2><span class="counter font-600">99</span>%</h2>
-              <h3 class="dark-color font-200">Naturality</h3>
+              <h3 class="mt-30 dark-color font-200">Natural results: Very forgiving products and easy to mold, well integrated into the dermis</h3>
             </div>
           </div>
         </div>

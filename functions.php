@@ -30,7 +30,7 @@ function register_hallura_styles_and_scripts() {
     if ( is_page_template( 'page_hallura_front_page.php' ) ) {
         wp_enqueue_style( 'hallura-bootstrap', get_stylesheet_directory_uri() . "/assets/css/bootstrap.min.css");
         
-        wp_enqueue_style( 'hallura-core', get_stylesheet_directory_uri() . '/assets/css/master.css', [] );
+        wp_enqueue_style( 'hallura-core', get_stylesheet_directory_uri() . '/assets/css/master.css', [], THEME_VERSION );
         wp_enqueue_style( 'hallura-responsive', get_stylesheet_directory_uri() . '/assets/css/responsive.css', [] );
         wp_enqueue_style( 'hallura-front-page', get_stylesheet_directory_uri() . '/hallura-front-page.css', [], THEME_VERSION );
 
