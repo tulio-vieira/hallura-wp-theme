@@ -118,27 +118,15 @@ get_header(); ?>
       </div>
     </section>
 
-    <section class="ucm-area ucm-bg" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg.jpg' ?>">
-      <div class="ucm-bg-shape" data-background="<?php echo get_stylesheet_directory_uri() . '/assets/images/bg/ucm_bg_shape.png' ?>"></div>
-      <div class="container">
-        <div class="row align-items-end mb-55">
-          <div class="col-lg-6">
-            <div class="section-title text-lg-left">
-              <span class="sub-title">Before & After</span>
-              <h2 class="title">Natural Results</h2>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="ucm-nav-wrap">
-              <ul class="nav nav-tabs" id="myTab" role="tablist">
-              </ul>
-            </div>
-          </div>
-        </div>
+    <section style="background-color: #0f1216">
+      <div class="container section-title">
+        <span class="sub-title">Before & After</span>
+        <h2 class="title">Natural Results</h2>
       </div>
-      <div style="margin: 0 30px">
-        <div class="tab-content" id="myTabContent">
-          <div class="tab-pane fade show active" id="tvShow" role="tabpanel" aria-labelledby="tvShow-tab">
+      <div class="container">
+        <div class="tab-content">
+          <h5 class="hallura-result-title sdfjl">LIPS ENHANCEMENT</h5>
+          <div class="tab-pane fade show active" role="tabpanel">
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                 <div class="movie-poster">
@@ -149,29 +137,6 @@ get_header(); ?>
                     <div>15 months</div>
                   </div>
                 </div>
-                <h5 class="hallura-result-title">LIPS</h5>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result2.jpg' ?>" alt="">
-                  <div class="hallura-result-label">
-                    <div>Baseline</div>
-                    <div>6 months</div>
-                    <div>15 months</div>
-                  </div>
-                </div>
-                <h5 class="hallura-result-title">NLF</h5>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
-                  <div class="hallura-result-label">
-                    <div>Baseline</div>
-                    <div>6 months</div>
-                    <div>15 months</div>
-                  </div>
-                </div>
-                <h5 class="hallura-result-title">CHEEKS</h5>
               </div>
               <div class="movie-item mb-50">
                 <div class="movie-poster">
@@ -182,18 +147,6 @@ get_header(); ?>
                     <div>15 months</div>
                   </div>
                 </div>
-                <h5 class="hallura-result-title">LIPS</h5>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result5.jpg' ?>" alt="">
-                  <div class="hallura-result-label">
-                    <div>Baseline</div>
-                    <div>6 months</div>
-                    <div>15 months</div>
-                  </div>
-                </div>
-                <h5 class="hallura-result-title">NLF</h5>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
@@ -204,7 +157,110 @@ get_header(); ?>
                     <div>15 months</div>
                   </div>
                 </div>
-                <h5 class="hallura-result-title">LIPS</h5>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result6.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-content">
+          <h5 class="hallura-result-title sdfjl">NLF ENHANCEMENT</h5>
+          <div class="tab-pane fade show active" role="tabpanel">
+            <div class="ucm-active owl-carousel">
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result2.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result5.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result2.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result5.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-content">
+          <h5 class="hallura-result-title sdfjl">CHEEK ENHANCEMENT</h5>
+          <div class="tab-pane fade show active" role="tabpanel">
+            <div class="ucm-active owl-carousel">
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
+              </div>
+              <div class="movie-item mb-50">
+               <div class="movie-poster">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/result3.jpg' ?>" alt="">
+                  <div class="hallura-result-label">
+                    <div>Baseline</div>
+                    <div>6 months</div>
+                    <div>15 months</div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

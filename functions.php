@@ -38,7 +38,7 @@ function register_hallura_styles_and_scripts() {
         wp_enqueue_style( 'hallura-revolution-layers', get_stylesheet_directory_uri() . '/revolution/css/layers.css', [] );
         
         wp_enqueue_style( 'hallura-default', get_stylesheet_directory_uri() . '/assets/css/new/default.css', [] );
-        wp_enqueue_style( 'hallura-style', get_stylesheet_directory_uri() . '/assets/css/new/style.css', [] );
+        wp_enqueue_style( 'hallura-style', get_stylesheet_directory_uri() . '/assets/css/new/style.css', [], THEME_VERSION );
         
         wp_enqueue_script( 'hallura-jquery-3.6', '//code.jquery.com/jquery-3.6.0.min.js', [] );
         wp_enqueue_style( 'hallura-owl', '//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css', [] );
