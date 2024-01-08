@@ -313,37 +313,49 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font">What makes Hallura™ <br>the ultimate choice</h1>
+              <h1 class="raleway-font">Hallura marks the dawn of a<br>new era in tissue regeneration</h1>
             </div>
           </div>
         </div>
         <div class="row mt-50">
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
               <i class="fa-solid fa-leaf font-40px"></i>
-              <h4 class="mt-0 font-600">Natural</h4>
-              <p class="font-400">With about 99% HA in its natural state and up to 4 times less HA content,
-                Hallura is the most natural HA filler.</p>
-              <br>
+              <h4 class="mt-0 font-600">Hallura is a totally new material</h4>
+              <li>Not a simple filler</li>
+              <li>A matrix for tissue support</li>    
+              <li>Fully bio-integrable and a scaffold for cell and extracellular matrix growth</li>
             </div>
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
+          <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
               <i class="fa-solid fa-check font-40px"></i>
-              <h4 class="mt-0 font-600">Efficient</h4>
-              <p class="font-400">Unique elastic properties enable superior intrinsic lifting force. Hallura gels
-                promote collagen and elastin formation for long-lasting natural results.</p>
+              <h4 class="mt-0 font-600">Supportive clinical observations</h4>
+              <li>Very long duration (up to 18 months in lips where regular products last 6-9 months)</li>
+              <li>Natural feeling post injection</li>
+              <li>Minimal adverse reactions</li>
+              <li>No swelling</li>
             </div>
           </div>
-          <div class="col-md-4 col-sm-4 col-xs-12">
+        </div>
+        <div class="row mt-30">
+          <div class="col-md-6 col-sm-6 col-xs-12">
             <div class="feature-box text-center feature-box-default-bg center-feature">
-              <i class="fa-solid fa-lock font-40px"></i>
-              <h4 class="mt-0 font-600">Safe</h4>
-              <p class="font-400">Hallura’s ultra-pure HA integrates naturally, homogenously and seamlessly into
-                the tissue.
-                <br><br>
-
-              </p>
+              <i class="fa-solid fa-circle-xmark font-40px"></i>
+              <h4 class="mt-0 font-600">Current Bio-stimulators</h4>
+              <li>Includes materials foreign to the skin, usually solid beads of calcium hydroxyapatite or poly-lactic acid</li>
+              <li>Elicit foreign body reactions in the dermis</li>
+              <li>Local and non-homogeneous deposition of collagen around the foreign filler material</li>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="feature-box text-center feature-box-default-bg center-feature">
+              <i class="fa-solid fa-hand-holding-medical font-40px"></i>
+              <h4 class="mt-0 font-600">Hallura for natural skin regeneration</h4>
+              <li>Favorable composition and environment for natural skin regeneration</li>
+              <li>Natural composition (> 99.99%)</li>
+              <li>Proven natural and homogeneous stimulation of Elastin and Collagen in the surrouding dermis</li>
+              <li>Evidence of tissue ingrowth and cell infiltration in the gel</li>
             </div>
           </div>
         </div>
