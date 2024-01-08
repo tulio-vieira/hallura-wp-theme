@@ -60,6 +60,10 @@
     vertical-align: bottom;
 }
 
+.hallura-section img {
+    max-height: 350px;
+}
+
 .hallura-section h3 {
     font-weight: 300;
 }
@@ -85,22 +89,27 @@
 }
 
 .hallura-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    background-color: #f2f3f7;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 5px;
 }
 
+.hallura-container ul {
+    margin-bottom: 0px;
+}
 
-@media (max-width:991px) {
-    .hallura-col-reverse {
-        display: flex;
-        flex-direction: column-reverse;
-    }
+.hallura-container h3, .hallura-container h4 {
+    text-align: left;
+}
+
+.hallura-container h4 {
+    margin-top: 0px;
 }
 
 .hallura-container h3 {
-    color: #c49903;
     font-weight: bold !important;
+    margin: 0px;
 }
 
 h5.hallura-result-title {

@@ -310,31 +310,34 @@ get_header(); ?>
         </div>
         <h3 class="raleway-font text-center">While all HA fillers are crosslinked, Hallura developed BiOLinkMatrix "local-key" cross-linking, perfectly elastic compared to current HA in the market.</h3>
         <div class="col-md-6 col-xs-12 remove-padding">
-          <div>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/currenthaa.png' ?>" alt="">
+          <div class="text-center">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/current-haa.png' ?>" alt="">
           </div>
           <div class="hallura-container">
-            <h3 class="raleway-font hallura-main text-center">Current HA:</h3>
+            <h3 class="raleway-font hallura-main text-center">HA BDDE-crosslinked</h3>
+            <h4 class="raleway-font hallura-main text-center">Damaging the HA polymer chains*</h4>
             <ul>
-              <li>Damages HA polymer chains</li>
-              <li>Resultant loss of elasticity</li>
-              <li>Formation of granular, harder materials</li>
+              <li>Loss of natural HA elastic potential</li>
+              <li>Granular, hard materials</li>
             </ul>
           </div>
         </div>
-        <div class="col-md-6 col-xs-12 remove-padding hallura-col-reverse">
+        <div class="col-md-6 col-xs-12 remove-padding">
+          <div class="text-center">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
+          </div>
           <div class="hallura-container">
-            <h3 class="raleway-font text-center">BiOLinkMatrix:</h3>
+            <h3 class="raleway-font text-center">BiOLinkMatrix</h3>
+            <h4 class="raleway-font text-center">Sustaining the long polymer chains</h4>
             <ul style="text-align: left">
-              <li>Sustains the integrity of long polymer chains</li>
-              <li>Exhibits pure elasticiy</li>
-              <li>Utilizes granular, harder materials for a natural and youthful look</li>
+              <li>Pure elasticity</li>
+              <li>Homogeneous</li>
             </ul>
           </div>
-          <div>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix.png' ?>" alt="">
-          </div>
         </div>
+      </div>
+      <div class="container" style="margin-top: 20px;">
+        <p>*Polymer chains are the natural occurring long molecules of Hyaluronic Acid (represented as blue ribbons)</p>
       </div>
     </section>
 
