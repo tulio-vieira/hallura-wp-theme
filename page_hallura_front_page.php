@@ -125,7 +125,7 @@ get_header(); ?>
       </div>
       <div class="container">
         <div class="tab-content">
-          <h5 class="hallura-result-title sdfjl">LIPS ENHANCEMENT</h5>
+          <h5 class="hallura-result-title">LIPS</h5>
           <div class="tab-pane fade show active" role="tabpanel">
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
@@ -182,7 +182,7 @@ get_header(); ?>
           </div>
         </div>
         <div class="tab-content">
-          <h5 class="hallura-result-title sdfjl">NLF ENHANCEMENT</h5>
+          <h5 class="hallura-result-title">NLF</h5>
           <div class="tab-pane fade show active" role="tabpanel">
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
@@ -239,7 +239,7 @@ get_header(); ?>
           </div>
         </div>
         <div class="tab-content">
-          <h5 class="hallura-result-title sdfjl">CHEEK ENHANCEMENT</h5>
+          <h5 class="hallura-result-title">CHEEKS</h5>
           <div class="tab-pane fade show active" role="tabpanel">
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
