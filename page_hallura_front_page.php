@@ -308,15 +308,39 @@ get_header(); ?>
         </div>
         <h3 class="raleway-font text-center" style="font-weight: 300;">While all HA fillers are crosslinked, Hallura developed BiOLinkMatrix "local-key" cross-linking, perfectly elastic compared to current HA in the market.</h3>
         <div class="hallura-results-grid-wrapper">
-          <div class="hallura-result-box a" style="background-color: #f1f1f1">
+          <div class="a">
             <div>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/current-haa.png' ?>" alt="">
             </div>
-            <div>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
+            <div class="hallura-result-box" style="background-color: #fdf3f3">
+              <h3 class="raleway-font hallura-main">HA BDDE-crosslinked</h3>
+              <h4 class="raleway-font hallura-main">Damaging the HA polymer chains*</h4>
+              <ul>
+                <li>Loss of natural HA elastic potential</li>
+                <li>Granular, hard materials</li>
+              </ul>
+              <div>
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/BDDE-crosslinked.png' ?>" alt="">
+              </div>
             </div>
           </div>
           <div class="b">
+            <div>
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
+            </div>
+            <div class="hallura-result-box" style="background-color: #f0f2f6">
+              <h3 class="raleway-font">BiOLinkMatrix</h3>
+              <h4 class="raleway-font">Sustaining the long polymer chains</h4>
+              <ul style="text-align: left">
+                <li>Pure elasticity</li>
+                <li>Homogeneous</li>
+              </ul>
+              <div class="text-center">
+                <img class="hallura-section-img-2" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
+              </div>
+            </div>
+          </div>
+          <div class="c">
             <h3 class="raleway-font">BiOLinkMatrix preserves HA long chains</h3>
             <p>In the conditions used for BDDE crosslinking, HA dramatically damages into much shorter chains even under conditions claimed as protective to HA (degradation from 1.6 million Dalton to 0.1-0.2 million Dalton).</p>
             <h4>Hallura® process:</h4>
@@ -330,29 +354,7 @@ get_header(); ?>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/graph1.png' ?>" alt="">
             </div>
           </div>
-          <div class="hallura-result-box c" style="background-color: #fdf3f3">
-            <h3 class="raleway-font hallura-main">HA BDDE-crosslinked</h3>
-            <h4 class="raleway-font hallura-main">Damaging the HA polymer chains*</h4>
-            <ul>
-              <li>Loss of natural HA elastic potential</li>
-              <li>Granular, hard materials</li>
-            </ul>
-            <div>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/BDDE-crosslinked.png' ?>" alt="">
-            </div>
-          </div>
-          <div class="hallura-result-box d" style="background-color: #f0f2f6">
-            <h3 class="raleway-font">BiOLinkMatrix</h3>
-            <h4 class="raleway-font">Sustaining the long polymer chains</h4>
-            <ul style="text-align: left">
-              <li>Pure elasticity</li>
-              <li>Homogeneous</li>
-            </ul>
-            <div class="text-center">
-              <img class="hallura-section-img-2" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
-            </div>
-          </div>
-          <div class="e">
+          <div class="d">
             <p>*Polymer chains are the natural occurring long molecules of Hyaluronic Acid (represented as blue ribbons)</p>
           </div>
         </div>
