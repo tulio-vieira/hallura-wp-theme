@@ -329,14 +329,14 @@ get_header(); ?>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
             </div>
             <div class="hallura-result-box" style="background-color: #f0f2f6">
-              <h3 class="raleway-font">BiOLinkMatrix</h3>
+              <h3 class="raleway-font">BiOLinkMatrix by Hallura® </h3>
               <h4 class="raleway-font">Sustaining the long polymer chains</h4>
               <ul style="text-align: left">
                 <li>Pure elasticity</li>
                 <li>Homogeneous</li>
               </ul>
               <div class="text-center">
-                <img class="hallura-section-img-2" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
               </div>
             </div>
           </div>
@@ -469,6 +469,34 @@ get_header(); ?>
       </div>
     </section>
 
+    <section id="safety-breeds-confidence" class="white-bg">
+      <div class="container">
+        <div class="row">
+          <div class="section-title text-center">
+            <h1 class="raleway-font">Safety Breeds Confidence</h1>
+            <hr class="center_line default-bg">
+          </div>
+        </div>
+        <div class="hallura-results-grid-wrapper">
+          <div class="a hallura-result-box" style="background-color: #f3f7ff">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/52p.png' ?>" alt="">
+            <p>Of consumers would consider dermal filler injections at some point of their lives¹</p>
+          </div>
+          <div class="b hallura-result-box" style="background-color: #f3f7ff">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/55p.png' ?>" alt="">
+            <p>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²</p>
+          </div>
+          <div class="c">
+            <p>"<b>When the question is no longer 'if' I should consider treatment, but 'when' I should consider it, the conversation with the physician changes</b> (...) In the past, we saw patients for aesthetic treatments before a big event such as a wedding or reunion, whereas now we see them on a more regular basis, and they use words like <b>'preventative care'</b>."</p>
+            <p style="margin-top: 30px;">Source: ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6099). (2) Total ACC (n=14584). (3) U.S ACC (2122) ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14584 adults from 18 countries.</p>
+          </div>
+          <div class="d">
+            <h3 class="raleway-font text-center">Main improvement needs of HA fillers</h3>
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/graph.png' ?>" alt="">
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="white-bg pb-0" id="service">
       <div class="container">

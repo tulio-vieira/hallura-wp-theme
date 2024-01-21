@@ -124,6 +124,11 @@
     grid-column: 3;
     grid-row: 1 / 3;
 }
+#safety-breeds-confidence .c {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
 .d {
     grid-column: 1 / 3;
     grid-row: 2;
