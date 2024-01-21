@@ -309,36 +309,12 @@ get_header(); ?>
         <h3 class="raleway-font text-center" style="font-weight: 300;">While all HA fillers are crosslinked, Hallura developed BiOLinkMatrix "local-key" cross-linking, perfectly elastic compared to current HA in the market.</h3>
         <div class="hallura-results-grid-wrapper">
           <div class="a">
-            <div>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/current-haa.png' ?>" alt="">
-            </div>
-            <div class="hallura-result-box" style="background-color: #fdf3f3">
-              <h3 class="raleway-font hallura-main">HA BDDE-crosslinked</h3>
-              <h4 class="raleway-font hallura-main">Damaging the HA polymer chains*</h4>
-              <ul>
-                <li>Loss of natural HA elastic potential</li>
-                <li>Granular, hard materials</li>
-              </ul>
-              <div>
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/BDDE-crosslinked.png' ?>" alt="">
-              </div>
-            </div>
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/current-haa.png' ?>" alt="">
+            <p>An inhert molecule (half of the BioLink) is connected along an HA chain (HA-t). Its counterpart molecule is connected along another HA chain (HA-n)</p>
           </div>
           <div class="b">
-            <div>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
-            </div>
-            <div class="hallura-result-box" style="background-color: #f0f2f6">
-              <h3 class="raleway-font">BiOLinkMatrix by Hallura® </h3>
-              <h4 class="raleway-font">Sustaining the long polymer chains</h4>
-              <ul style="text-align: left">
-                <li>Pure elasticity</li>
-                <li>Homogeneous</li>
-              </ul>
-              <div class="text-center">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
-              </div>
-            </div>
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix.png' ?>" alt="">
+            <p>HA-t & HA-n are combined, the two molecules link together forming the <b>BioLink</b></p>
           </div>
           <div class="c">
             <h3 class="raleway-font">BiOLinkMatrix preserves HA long chains</h3>
@@ -354,7 +330,29 @@ get_header(); ?>
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/graph1.png' ?>" alt="">
             </div>
           </div>
-          <div class="d">
+          <div class="d hallura-result-box" style="background-color: #fdf3f3">
+            <h3 class="raleway-font hallura-main">HA BDDE-crosslinked</h3>
+            <h4 class="raleway-font hallura-main">Damaging the HA polymer chains*</h4>
+            <ul>
+              <li>Loss of natural HA elastic potential</li>
+              <li>Granular, hard materials</li>
+            </ul>
+            <div>
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/BDDE-crosslinked.png' ?>" alt="">
+            </div>
+          </div>
+          <div class="e hallura-result-box" style="background-color: #f0f2f6">
+            <h3 class="raleway-font">BiOLinkMatrix by Hallura® </h3>
+            <h4 class="raleway-font">Sustaining the long polymer chains</h4>
+            <ul style="text-align: left">
+              <li>Pure elasticity</li>
+              <li>Homogeneous</li>
+            </ul>
+            <div class="text-center">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolinkmatrix-min.png' ?>" alt="">
+            </div>
+          </div>
+          <div class="f">
             <p>*Polymer chains are the natural occurring long molecules of Hyaluronic Acid (represented as blue ribbons)</p>
           </div>
         </div>
