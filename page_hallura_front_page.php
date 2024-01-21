@@ -319,15 +319,20 @@ get_header(); ?>
           <div class="c">
             <h3 class="raleway-font">BiOLinkMatrix preserves HA long chains</h3>
             <p>In the conditions used for BDDE crosslinking, HA dramatically damages into much shorter chains even under conditions claimed as protective to HA (degradation from 1.6 million Dalton to 0.1-0.2 million Dalton).</p>
-            <h4>Hallura® process:</h4>
-            <ul style="text-align: left">
-              <li>Maintains HA long chains</li>
-              <li>Protects natural HA elasticity</li>
-              <li>Protects natural anti-inflammatory effect</li>
-            </ul>
-            <h3 class="raleway-font">Comparison of HA chain lengths</h3>
             <div>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/graph1.png' ?>" alt="">
+              <h4>Hallura® process:</h4>
+              <ul style="text-align: left">
+                <li>Maintains HA long chains</li>
+                <li>Protects natural HA elasticity</li>
+                <li>Protects natural anti-inflammatory effect</li>
+              </ul>
+            </div>
+            <div>
+              <hr>
+              <h3 class="raleway-font">Comparison of HA chain lengths</h3>
+              <div>
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/graph1.png' ?>" alt="">
+              </div>
             </div>
           </div>
           <div class="d hallura-result-box" style="background-color: #fdf3f3">
@@ -486,7 +491,10 @@ get_header(); ?>
           </div>
           <div class="c">
             <p>"<b>When the question is no longer 'if' I should consider treatment, but 'when' I should consider it, the conversation with the physician changes</b> (...) In the past, we saw patients for aesthetic treatments before a big event such as a wedding or reunion, whereas now we see them on a more regular basis, and they use words like <b>'preventative care'</b>."</p>
-            <p style="margin-top: 30px;">Source: ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6099). (2) Total ACC (n=14584). (3) U.S ACC (2122) ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14584 adults from 18 countries.</p>
+            <div>
+              <hr>
+              <p>Source: ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6099). (2) Total ACC (n=14584). (3) U.S ACC (2122) ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14584 adults from 18 countries.</p>
+            </div>
           </div>
           <div class="d">
             <h3 class="raleway-font text-center">Main improvement needs of HA fillers</h3>
