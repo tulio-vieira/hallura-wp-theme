@@ -433,9 +433,18 @@ get_header(); ?>
           <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="">
           <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="">
         </div>
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1-INDICATORS.png' ?>" alt="">
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2-INDICATORS.png' ?>" alt="">
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3-INDICATORS.png' ?>" alt="">
+        <div class="text-center mt-60">
+          <h5 class="hallura-result-title">HLR-1 INDICATORS</h5>
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1-INDICATORS.png' ?>" alt="">
+        </div>
+        <div class="text-center">
+          <h5 class="hallura-result-title">HLR-2 INDICATORS</h5>
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2-INDICATORS.png' ?>" alt="">
+          </div>
+        <div class="text-center">
+          <h5 class="hallura-result-title">HLR-3 INDICATORS</h5>
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3-INDICATORS.png' ?>" alt="">
+        </div>
       </div>
     </section>
 
