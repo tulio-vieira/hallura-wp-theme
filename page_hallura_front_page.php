@@ -429,46 +429,13 @@ get_header(); ?>
           </div>
         </div>
         <div class="hallura-packs">
-          <div class="hallura-pack">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/box1.png' ?>" alt="">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR1.png' ?>" alt="">
-            <div>
-              <h3>HLR1</h3>
-              <h4>Good for:</h4>
-              <li>Temples</li>
-              <li>Tear Trough</li>    
-              <li>Prioral lines</li>
-              <li>Lips</li>
-              <li>Neck</li>
-            </div>
-          </div>
-          <div class="hallura-pack">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/box2.png' ?>" alt="">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR2.png' ?>" alt="">
-            <div>
-              <h3>HLR2</h3>
-              <h4>Good for:</h4>
-              <li>Temples</li>
-              <li>Cheeks</li>    
-              <li>NLF</li>
-              <li>Marionnate Lines</li>
-              <li>Lips</li>
-            </div>
-          </div>
-          <div class="hallura-pack">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/box3.png' ?>" alt="">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR3.png' ?>" alt="">
-            <div>
-              <h3>HLR3</h3>
-              <h4>Good for:</h4>
-              <li>Temples</li>
-              <li>Cheek Bones</li>    
-              <li>Nose</li>
-              <li>Jaw Line</li>
-              <li>Chin</li>
-            </div>
-          </div>
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1.png' ?>" alt="">
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="">
+          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="">
         </div>
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1-INDICATORS.png' ?>" alt="">
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2-INDICATORS.png' ?>" alt="">
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3-INDICATORS.png' ?>" alt="">
       </div>
     </section>
 
