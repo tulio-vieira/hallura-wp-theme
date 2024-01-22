@@ -253,8 +253,8 @@
 .ucm-active .owl-nav,
 .ucm-active-two .owl-nav {
     position: absolute;
-    bottom: -10px;
-    right: 0;
+    bottom: -30px;
+    right: 30px;
     border: 2px solid #2d303d;
     color: #e3dfdf;
     padding: 9.5px 19px;
