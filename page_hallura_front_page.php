@@ -130,7 +130,7 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips1.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS1.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -140,7 +140,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips2.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS2.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -150,7 +150,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips3.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS3.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -160,7 +160,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips4.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS4.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -170,7 +170,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips5.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS5.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -180,7 +180,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips6.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS6.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -197,7 +197,7 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/nlf1.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF1.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -207,7 +207,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/nlf2.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF2.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -217,7 +217,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/nlf3.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF3.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -227,7 +227,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/nlf4.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF4.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -237,7 +237,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/nlf5.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF5.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -254,7 +254,7 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks1.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS1.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -264,7 +264,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks2.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS2.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -274,7 +274,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks3.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS3.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
@@ -284,7 +284,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks4.png' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS4.jpg' ?>" alt="">
                   <div class="hallura-result-label">
                     <div>Baseline</div>
                     <div>6 months</div>
