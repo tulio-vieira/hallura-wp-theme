@@ -50,12 +50,12 @@ get_header(); ?>
     <!--== About Company Start ==-->
     <section class="grey-bg xs-pb-60">
       <div class="col-md-6 col-sm-6 bg-flex bg-flex-left">
-        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/placeholder.jpeg' ?>);">
+        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/video-thumbnail.jpg' ?>);">
           <div class="video-box_overlay">
             <div class="center-layout">
-              <!-- <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
+              <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
                   <div class="play-button"><i class="tr-icon ion-android-arrow-dropright"></i></div>
-                </a> </div> -->
+                </a> </div>
             </div>
           </div>
         </div>
@@ -63,12 +63,15 @@ get_header(); ?>
       <div class="container-fluid">
         <div class="col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6">
           <div class="col-inner spacer text-left">
-            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">How Hallura works</h1>
-            <p class="mt-30 intro">Hallura's BioLinkMatrix, a groundbreaking advancement in dermal filler technology, is transforming the landscape of hyaluronic acid (HA) cross-linking.
-                <br>
-                 <br>
-             This innovative technology from HalluraTM meticulously preserves the intricate structure of extended HA polymer chains. The outcome is the creation of an unparalleled level of PURE ELASTICITY, a distinctive quality that truly distinguishes it from other competitors in the market. 
-                <br>
+            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">THE NEW HA FILLER TO ENHANCE THE NATURAL YOU</h1>
+            <p class="mt-30 intro font-20px" style="text-align: justify;">
+              The 2022 Nobel Prize for Chemistry laid the foundation of an ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked. Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
+              <br>
+              <br>
+              The precise Bio-Orthogonal cross-linking developed at Hallura, allows an exceptionally low modification of the native HA polymer. This sustains the innate long polymer chains of the HA and reduces side reactions or by-products. As a result, Hallura's fillers are closer to the pristine HA in a youthful skin.
+              <br>
+              <br>
+              Hallura's advanced products line for aesthetic applications, includes treatments for skin rejuvenation, fine and deep lines smoothing, and volume restoration in lips and mid-face. The products have undergone pre-clinical and clinical trials in Europe with excellent efficacy and safety outcomes.
             </p>
           </div>
         </div>
@@ -84,7 +87,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font white-color">Hallura's Benefits</h1>
+              <h1 class="raleway-font white-color">Hallura's Innovation</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
