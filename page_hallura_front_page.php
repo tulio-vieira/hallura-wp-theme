@@ -28,18 +28,18 @@ get_header(); ?>
 
 <main id="main" class="site-main" role="main">
     <!--== Who We Are Start ==-->
-    <section class="white-bg xs-pb-100" id="about" style="background-image: url('<?php echo get_stylesheet_directory_uri() . '/assets/images/bg-text.jpg' ?>'); background-size: cover;     background-position: center;">
+    <section class="who-we-are" id="about">
       <div class="container">
         <div class="row">
-          <div class="col-md-8 centerize-col text-center">
+          <div class="col-md-8 centerize-col">
             <div class="section-title hallura-section">
-              <h2 class="raleway-font default-color"></h2>
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-stamp.png' ?>" alt="" style="min-width: 150px;" width="25%">
-              <h3 class="raleway-font">As we move towards natural beauty, Hallura™ developed the next generation of HA fillers, providing the ultimate choice empowering YOU at your Natural, Beautiful and Confident self.</h3>
-              <br>
-              <h3 class="raleway-font">Hallura’s fillers are based on breakthrough BioLinkMatrix technology which provides an adaptive elasticity gel that induces optimal integration to your skin, bio-stimulating collagen and elastin production for long-lasting results.</h3>
-              <br>
-              <h3 class="raleway-font">Hallura’s gel provides a personalized treatment, adjusted to your desires, ensuring optimal and natural look and feel.</h3>
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura.svg' ?>" alt="">
+              <h3 class="raleway-font">Based on the groundbreaking discovery honored with the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
+              <h3 class="raleway-font">Hallura harnessed the advanced concept in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal fillers. Typical Hyaluronic acid dermal fillers are cross-linked via the chemical BDDE, or other epoxides, activated under harsh conditions with very little control over concurrent damage to the HA polymer. Hallura's targeted crosslinking approach protects long chains of HA to create a purely elastic BiOLinkMatrix with great clinical benefits.</h3>
+            </div>
+            <div class="nobel">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/nobel-prize.png' ?>" alt="">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/nobel-prize-title.jpg' ?>" style="display: block" alt="">
             </div>
           </div>
         </div>
