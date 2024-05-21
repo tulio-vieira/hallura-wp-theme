@@ -367,60 +367,6 @@ get_header(); ?>
       </div>
     </section>
 
-    <section class="white-bg xs-pb-100" id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 centerize-col text-center">
-            <div class="section-title">
-              <h1 class="raleway-font">Hallura marks the dawn of a<br>new era in tissue regeneration</h1>
-            </div>
-          </div>
-        </div>
-        <div class="row mt-50">
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
-              <i class="fa-solid fa-leaf font-40px"></i>
-              <h4 class="mt-0 font-600">Hallura is a totally new material</h4>
-              <li>Not a simple filler</li>
-              <li>A matrix for tissue support</li>    
-              <li>Fully bio-integrable and a scaffold for cell and extracellular matrix growth</li>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="feature-box text-center xs-mb-30 feature-box-default-bg center-feature">
-              <i class="fa-solid fa-check font-40px"></i>
-              <h4 class="mt-0 font-600">Supportive clinical observations</h4>
-              <li>Very long duration (up to 18 months in lips where regular products last 6-9 months)</li>
-              <li>Natural feeling post injection</li>
-              <li>Minimal adverse reactions</li>
-              <li>No swelling</li>
-            </div>
-          </div>
-        </div>
-        <div class="row mt-30">
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="feature-box text-center feature-box-default-bg center-feature">
-              <i class="fa-solid fa-circle-xmark font-40px"></i>
-              <h4 class="mt-0 font-600">Current Bio-stimulators</h4>
-              <li>Includes materials foreign to the skin, usually solid beads of calcium hydroxyapatite or poly-lactic acid</li>
-              <li>Elicit foreign body reactions in the dermis</li>
-              <li>Local and non-homogeneous deposition of collagen around the foreign filler material</li>
-            </div>
-          </div>
-          <div class="col-md-6 col-sm-6 col-xs-12">
-            <div class="feature-box text-center feature-box-default-bg center-feature">
-              <i class="fa-solid fa-hand-holding-medical font-40px"></i>
-              <h4 class="mt-0 font-600">Hallura for natural skin regeneration</h4>
-              <li>Favorable composition and environment for natural skin regeneration</li>
-              <li>Natural composition (> 99.99%)</li>
-              <li>Proven natural and homogeneous stimulation of Elastin and Collagen in the surrouding dermis</li>
-              <li>Evidence of tissue ingrowth and cell infiltration in the gel</li>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <section id="packs">
       <div class="container">
         <div class="row">
@@ -483,170 +429,69 @@ get_header(); ?>
       </div>
     </section>
 
-    <section class="white-bg pb-0" id="service">
+    <style>
+      .hallura-review-1 {
+        background-color: #f2e9e6;
+        background-image: url("<?php echo get_stylesheet_directory_uri() . '/assets/images/reviews/apostrophe1.svg' ?>");
+      }
+      .hallura-review-2 {
+        background-color: #f5f2f0;
+        background-image: url("<?php echo get_stylesheet_directory_uri() . '/assets/images/reviews/apostrophe2.svg' ?>");
+      }
+      .hallura-review-3 {
+        background-color: #ede8e2;
+        background-image: url("<?php echo get_stylesheet_directory_uri() . '/assets/images/reviews/apostrophe3.svg' ?>");
+      }
+      .hallura-review-4 {
+        background-color: #fdf4f4;
+        background-image: url("<?php echo get_stylesheet_directory_uri() . '/assets/images/reviews/apostrophe4.svg' ?>");
+      }
+    </style>
+
+    <section>
       <div class="container">
-        <div class="row">
-          <div class="col-md-8 centerize-col text-center">
-            <div class="section-title">
-              <h1 class="raleway-font">Unlock Your Natural Beauty with Hallura BiOLinkMatrix</h1>
-              <hr class="center_line default-bg">
-            </div>
+        <div class="col-md-8 centerize-col text-center">
+          <div class="section-title">
+            <h1 class="raleway-font">Reviews from Leading Market Physicians</h1>
+            <hr class="center_line default-bg">
           </div>
         </div>
-
-        <div class="row mt-50">
-          <div class="col-md-4 feature-box text-left mb-50 col-sm-6 wow fadeInRight" data-wow-delay="0.1s">
-            <i class="fa-solid fa-key font-40px"></i>
-            <div class="pull-right">
-              <h4 class="mt-0 font-600 raleway-font">Revolutionary Cross-Linking Technology</h4>
-              <p class="font-400">Our exclusive lock-key cross-linking technology preserves HA chains, eliminating
-                granular, harmful substances. Embrace the essence of youthful and resilient skin.</p>
-            </div>
+        <div class="hallura-reviews">
+          <div class="hallura-review hallura-review-1">
+            <p>
+              Hallura is a unique HA injectable and different to all other HA fillers in the market I have used so far in my 27 years of experience. Hallura shows a smooth and exceptional natural tissue integration without any additional swelling or water retention as side effects. Hallura is a unique product, you get what you inject, very naturally and predictably. The experience is wonderful for both: patients and the injecting physician. Hallura is safe, effective and preferable for the repeated long-term use in our patients.
+            </p>
+            <p>
+              <b>Dr. Sonja Sattler</b>, Dermatologist
+            </p>
           </div>
-          <div class="col-md-4 feature-box text-left mb-50 col-sm-6 wow fadeInRight" data-wow-delay="0.2s">
-            <i class="fa-solid fa-star font-40px"></i>
-            <div class="pull-right">
-              <h4 class="mt-0 font-600 raleway-font">The Ultimate Choice for Natural Results</h4>
-              <p class="font-400">Hallura offers the most natural HA filler. With 99% natural HA and unique elasticity,
-                it promotes collagen, delivering extraordinary results safely.</p>
-            </div>
+          <div class="hallura-review hallura-review-2">
+            <p>
+              I find Hallura to be an interesting promising innovative filler. It is well integrated in the tissue, associated with less swelling and trigger less inflammation. The end aesthetic results seem to be more natural and precise compared to other fillers in the market.
+            </p>
+            <p>
+              <b>Prof. Ofir Artzi</b>, MD, Dermatologist
+            </p>
           </div>
-          <div class="col-md-4 feature-box text-left mb-50 col-sm-6 wow fadeInRight" data-wow-delay="0.3s">
-            <i class="fa-solid fa-earth-americas font-40px"></i>
-            <div class="pull-right">
-              <h4 class="mt-0 font-600 raleway-font"> Trusted by Experts Worldwide</h4>
-              <p class="font-400">Join Satisfied Patients Worldwide as Experts Celebrate Our Long-Lasting, Seamless, and
-                Exceptionally Natural Results.</p>
-            </div>
+          <div class="hallura-review hallura-review-3">
+            <p>
+              The remarkable Hallura BDDE free advance technology surpasses being a mere injectable filler. Its exceptional naturalness and long-lasting effects are just the beginning. Extensive studies have revealed that Hallura goes beyond filling, actively stimulating physiological skin responses. By promoting the production of fibroblasts, collagen and elastin, Hallura emerges as a groundbreaking hybrid filler with extraordinary bioregenerative capabilities.
+            </p>
+            <p>
+              <b>Dr. Shino Bay</b>, MD, Dermatologist
+            </p>
+          </div>
+          <div class="hallura-review hallura-review-4">
+            <p>
+              Hallura feels different from regular HA, it integrates perfectly to the tissue and creates the natural curves and shapes without the firmness.
+            </p>
+            <p>
+              <b>Dr. Hadar Israeli</b>, MD, Plastic Surgeon
+            </p>
           </div>
         </div>
       </div>
     </section>
-
-    <!--== Testimonials Start ==-->
-    <section class="parallax-bg fixed-bg sm-pb-80 sm-pt-80" data-parallax-bg-image="<?php echo get_stylesheet_directory_uri() . '/assets/images/background/fx.jpg' ?>"
-      data-parallax-speed="0.5" data-parallax-direction="up" id="testimonial">
-      <div class="overlay-bg"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 centerize-col text-center">
-            <div class="section-title">
-              <h1 class="raleway-font white-color">What our product users have to say...</h1>
-              <hr class="center_line default-bg">
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="slick testimonial">
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle text-center" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta1.png' ?>"
-                    alt="avatar-1" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">Anne McAdams</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">"It’s certainly a great product, especially
-                      for treating lips in young patients."</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle text-center" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta2.png' ?>"
-                    alt="avatar-2" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">Jared Kane</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">"Hyaluronic acid for aesthetics with
-                      long-lasting results, even in the lips after a year."</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta3.png' ?>" alt="avatar-1" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">William Spark</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">Lorem ipsum dolor sit amet, consectetur
-                      adipiscing elit. Donec sodales nec nulla ac aliquet. Duis vel nunc eget.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta4.png' ?>" alt="avatar-1" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">Nani Wale</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">"I have been thoroughly impressed with
-                      Hallura's products. The longevity of the results and the minimal post-injection reactions are
-                      outstanding."</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta5.png' ?>" alt="avatar-1" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">Ariana Spark</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">"The integration in the tissue is much better
-                      than usual, and my patients adore the very natural results it provides."</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4 col-sm-6 col-xs-12">
-              <!--== Slide ==-->
-              <div class="testimonial-item">
-                <div class="testimonial-content">
-                  <i class="icofont icofont-quote-left font-50px default-color mt-20"></i>
-                  <img class="img-responsive img-circle" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/team/Prancheta6.png' ?>" alt="avatar-1" />
-                  <div class="text-center">
-                    <h4 class="font-600 mb-0 raleway-font white-color">Mary Grace</h4>
-                    <span class="default-color font-14px"> </span>
-                    <div class="clearfix mb-20"></div>
-                    <p class="mt-20 line-height-26 font-14px white-color">"For lip treatments in young patients, it's
-                      certainly a top-notch product."</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--== Testimonials End ==-->
 
     <section class="white-bg pb-0" id="service1">
       <div class="container">

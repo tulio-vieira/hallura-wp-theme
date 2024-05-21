@@ -70,10 +70,6 @@
     margin-bottom: 0px;
 }
 
-.testimonial-content img {
-    border-radius: 50%;
-}
-
 .hallura-result-label {
     display: grid;
     justify-content: space-around;
@@ -209,14 +205,6 @@ h5.hallura-result-title {
     text-align: center;
 }
 
-.feature-box li {
-    letter-spacing: normal;
-    line-height: 24px;
-    color: #888;
-    font-weight:400;
-    font-family: 'Open Sans', sans-serif;
-}
-
 .hallura-packs {
     display: flex;
     justify-content: space-evenly;
@@ -250,4 +238,42 @@ h5.hallura-result-title {
 .nobel > img:nth-child(1) {
     position: absolute;
     left: -170px;
+}
+
+.hallura-reviews {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width:480px) {
+    .hallura-reviews {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.hallura-review {
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 30px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.hallura-review p {
+    color: #444 !important;
+}
+
+.hallura-review p:first-child:first-letter {
+    font-size: 50px;
+    float: left;
+    margin-top: .2em;
+    margin-right: .2em
+}
+
+.hallura-review p:nth-child(2) {
+    margin-left: auto;
+    margin-bottom: 0px;
 }
