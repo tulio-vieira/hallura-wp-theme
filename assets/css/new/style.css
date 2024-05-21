@@ -253,18 +253,18 @@
 .ucm-active .owl-nav,
 .ucm-active-two .owl-nav {
     position: absolute;
-    bottom: -30px;
+    bottom: -11px;
     right: 30px;
-    border: 2px solid #2d303d;
-    color: #e3dfdf;
-    padding: 9.5px 19px;
+    border: 1px solid #888;
+    color: #888;
+    padding: 4px 12px;
     border-radius: 50px;
 }
 .ucm-active.owl-carousel .owl-nav button.owl-prev,
 .ucm-active-two.owl-carousel .owl-nav button.owl-prev {
-    padding-right: 17px !important;
-    margin-right: 13px;
-	position: relative;
+    padding-right: 16px !important;
+    margin-right: 16px;
+    position: relative;
 }
 .ucm-active .owl-nav .owl-prev::before,
 .ucm-active-two .owl-nav .owl-prev::before {
@@ -273,9 +273,9 @@
     right: 0;
     top: 50%;
     transform: translateY(-50%);
-    width: 3px;
-    height: 26px;
-    background: #292b37;
+    width: 1px;
+    height: 15px;
+    background: #888;
 }
 .ucm-active .owl-nav button,
 .ucm-active-two .owl-nav button {
