@@ -66,6 +66,11 @@
     text-align: justify;
 }
 
+.hallura-section img {
+    width: 100%;
+    filter: invert(1);
+}
+
 .hallura-section {
     margin-bottom: 0px;
 }
@@ -276,4 +281,50 @@ h5.hallura-result-title {
 .hallura-review p:nth-child(2) {
     margin-left: auto;
     margin-bottom: 0px;
+}
+
+.hallura-benefits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 16px;
+    margin-top: 30px;
+}
+
+@media (max-width:767px) {
+    .hallura-benefits {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width:572px) {
+    .hallura-benefits {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+.hallura-benefits > div {
+    padding: 30px;
+}
+
+.hallura-benefits p {
+    color: #444 !important;
+    margin: 0px;
+    margin-top: 1.5em;
+}
+
+.hallura-benefits img {
+    width: 55px;
+}
+
+.hallura-features {
+    overflow-x:auto;
+}
+
+.hallura-features th, .hallura-features td {
+    padding: 0.4em;
+}
+
+.hallura-features img {
+    min-width: 105px;
 }

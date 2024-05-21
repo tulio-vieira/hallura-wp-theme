@@ -33,7 +33,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col">
             <div class="section-title hallura-section">
-              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura.svg' ?>" alt="">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-logo-brochure.svg' ?>" alt="">
               <h3 class="raleway-font">Based on the groundbreaking discovery honored with the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
               <h3 class="raleway-font">Hallura harnessed the advanced concept in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal fillers. Typical Hyaluronic acid dermal fillers are cross-linked via the chemical BDDE, or other epoxides, activated under harsh conditions with very little control over concurrent damage to the HA polymer. Hallura's targeted crosslinking approach protects long chains of HA to create a purely elastic BiOLinkMatrix with great clinical benefits.</h3>
             </div>
@@ -428,6 +428,155 @@ get_header(); ?>
         </div>
       </div>
     </section>
+
+
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="section-title text-center">
+            <h1 class="raleway-font">Product Features</h1>
+            <hr class="center_line default-bg">
+          </div>
+        </div>
+        <div class="hallura-features">
+          <table>
+            <colgroup>
+              <col/>
+              <col style="background-color: #f5f8fe;"/>
+              <col style="background-color: #fef5f5;"/>
+              <col style="background-color: #f9f5e9;"/>
+            </colgroup>
+            <tr>
+              <th></th>
+              <th><h3>HLR-1</h3></th>
+              <th><h3>HLR-2</h3></th>
+              <th><h3>HLR-3</h3></th>
+            </tr>
+            <tr>
+              <td>HA concentration</td>
+              <td>4 mg/mL</td>
+              <td>6 mg/mL</td>
+              <td>8 mg/mL</td>
+            </tr>
+            <tr>
+              <td>Primary indications</td>
+              <td>Lips correction & enhancement</td>
+              <td>Filling & smoothing of wrinkles</td>
+              <td>Facial remodeling & volume restoration</td>
+            </tr>
+            <tr>
+              <td>Elastin % (vs non treated skin)</td>
+              <td>+104%</td>
+              <td>+54%</td>
+              <td>+38%</td>
+            </tr>
+            <tr>
+              <td>Collagen I (% vs non treated skin)</td>
+              <td>+14%</td>
+              <td>+21%</td>
+              <td>+20%</td>
+            </tr>
+            <tr>
+              <td>Lifting Force¹</td>
+              <td>c.460 Pa</td>
+              <td>c.1,175 Pa</td>
+              <td>c.1,950 Pa</td>
+            </tr>
+            <tr>
+              <td>Product Integration</td>
+              <td>Distributed</td>
+              <td>Distributed</td>
+              <td>Distributed</td>
+            </tr>
+            <tr>
+              <td>Syringe Volume</td>
+              <td>1 mL</td>
+              <td>1 mL</td>
+              <td>1 mL</td>
+            </tr>
+            <tr>
+              <td>Needle</td>
+              <td>30G (UTWN)</td>
+              <td>29G (UTWN)</td>
+              <td>29G (UTWN)</td>
+            </tr>
+            <tr>
+              <td>Microcannula Recommendation</td>
+              <td>25G</td>
+              <td>22G</td>
+              <td>22G</td>
+            </tr>
+            <tr>
+              <td>Composition</td>
+              <td>4 mg/mL HA with 0.3% Lidocaine</td>
+              <td>6 mg/mL HA with 0.3% Lidocaine</td>
+              <td>8 mg/mL HA with 0.3% Lidocaine</td>
+            </tr>
+            <tr>
+              <td>Suggested Treatment Areas</td>
+              <td style="text-align: center;">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-1-treatment-areas.svg' ?>" alt="" />
+              </td>
+              <td style="text-align: center;">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-2-treatment-areas.svg' ?>" alt="" />
+              </td>
+              <td style="text-align: center;">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-3-treatment-areas.svg' ?>" alt="" />
+              </td>
+            </tr>
+            <tr>
+              <td td colspan="3">(1) Hallura, Data on file, Rheological evaluations DR-044.</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </section>
+
+
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="section-title text-center">
+            <h1 class="raleway-font">Hallura's Benefits</h1>
+            <hr class="center_line default-bg">
+          </div>
+        </div>
+        <div class="hallura-benefits">
+          <div style="background-color: #eaf1fe;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/crosslinked-chains.svg' ?>" alt="" />
+            <p>The <b>only HA with crosslinked long chains</b>, for exceptional elasticity.</p>
+          </div>
+          <div style="background-color: #e8d6a7;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/99-percent.svg' ?>" alt="" />
+            <p>Similar to the natural HA, <b>with exceptionally low modification and high purity.</b></p>
+          </div>
+          <div style="background-color: #e2cdc7;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/feather.svg' ?>" alt="" />
+            <p><b>Low concentration</b> of HA 4 / 6 / 8 mg/mL, for less water intake and less swelling.</p>
+          </div>
+          <div style="background-color: #fcebeb;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skincare.svg' ?>" alt="" />
+            <p><b>First time in HA fillers:</b> Significant regenerative effect stimulating collagen type I, III, and elastin.</p>
+          </div>
+          <div style="background-color: #fad7d7;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skin-oil.svg' ?>" alt="" />
+            <p><b>Safety is key:</b> very safe HA filler. Easy to dissolve with hyaluronidase.</p>
+          </div>
+          <div style="background-color: #8fa4d4;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/rash.svg' ?>" alt="" />
+            <p><b>No or minimal swelling</b>, inflammation or other side effects post injection. <b>No or minimal</b> lumps or bumps.</p>
+          </div>
+          <div style="background-color: #f4ebd3;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/time.svg' ?>" alt="" />
+            <p><b>Duration:</b> very long-lasting results (over 18 months). Superior tissue integration.</p>
+          </div>
+          <div style="background-color: #ece7e3;">
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/confort.svg' ?>" alt="" />
+            <p><b>Natural results:</b> forgiving product, can be easily molded. Looks and feels natural in the skin.</p>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <style>
       .hallura-review-1 {
