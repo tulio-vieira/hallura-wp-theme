@@ -35,7 +35,7 @@ get_header(); ?>
             <div class="section-title hallura-section">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-logo-brochure.svg' ?>" alt="">
               <h3 class="raleway-font">Based on the groundbreaking discovery honored with the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
-              <h3 class="raleway-font">Hallura harnessed the advanced concept in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal fillers. Typical Hyaluronic acid dermal fillers are cross-linked via the chemical BDDE, or other epoxides, activated under harsh conditions with very little control over concurrent damage to the HA polymer. Hallura's targeted crosslinking approach protects long chains of HA to create a purely elastic BiOLinkMatrix with great clinical benefits.</h3>
+              <h3 class="raleway-font">Hallura harnessed the advanced concept in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal fillers.</h3>
             </div>
             <div class="nobel">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/nobel-prize.png' ?>" alt="">
@@ -65,13 +65,13 @@ get_header(); ?>
           <div class="col-inner spacer text-left">
             <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">THE NEW HA FILLER TO ENHANCE THE NATURAL YOU</h1>
             <p class="mt-30 intro font-20px" style="text-align: justify;">
-              The 2022 Nobel Prize for Chemistry laid the foundation of an ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked. Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
+              The 2022 Nobel Prize for Chemistry laid the foundation of an <b>ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked.</b> Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
               <br>
               <br>
-              The precise Bio-Orthogonal cross-linking developed at Hallura, allows an exceptionally low modification of the native HA polymer. This sustains the innate long polymer chains of the HA and reduces side reactions or by-products. As a result, Hallura's fillers are closer to the pristine HA in a youthful skin.
+              The precise Bio-Orthogonal cross-linking developed at Hallura, allows an exceptionally low modification of the native Hyaluronic Acid (HA) polymer. This sustains the innate long polymer chains of the HA and <b>reduces side reactions or by-products.</b> As a result, Hallura's fillers are closer to the pristine HA in a youthful skin.
               <br>
               <br>
-              Hallura's advanced products line for aesthetic applications, includes treatments for skin rejuvenation, fine and deep lines smoothing, and volume restoration in lips and mid-face. The products have undergone pre-clinical and clinical trials in Europe with excellent efficacy and safety outcomes.
+              Hallura's advanced products line for aesthetic applications, includes treatments for skin rejuvenation, fine and deep lines smoothing, and volume restoration in lips and mid-face. <b>The products have undergone pre-clinical and clinical trials in Europe with excellent efficacy and safety outcomes.</b>
             </p>
           </div>
         </div>
@@ -301,7 +301,7 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font">Meet Our Range - Packshots</h1>
+              <h1 class="raleway-font">Meet Our Range</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
@@ -651,7 +651,7 @@ get_header(); ?>
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="section-title">
                   <h2 class="raleway-font default-color">Postal Address</h2>
-                  <p class="mt-30" style="color: #FFFFFF;">Israel - Address: 1080 - Tel Aviv</p>
+                  <p class="mt-30" style="color: #FFFFFF;">HaCarmel St. 67, Beit Apollo POB 128, Yoqneam 2069202, Israel</p>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6 col-xs-12">

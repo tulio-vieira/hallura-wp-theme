@@ -36,7 +36,7 @@
 			<?php else : ?>
 				<p class="site-title"><a href="<?php echo esc_url( $button_url ); ?>" target="<?php echo esc_attr( $button_target ); ?>"><?php echo esc_html( $site_title ); ?></a></p>
 			<?php endif; ?>
-			<p class="site-description">BASED ON THE 2023 <b>NOBEL PRIZE</b> IN CHEMISTRY FIRST TIME INTRODUCED TO THE AESTHETIC FIELD</p>
+			<p class="site-description">BASED ON THE 2022 <b>NOBEL PRIZE</b> IN CHEMISTRY FIRST TIME INTRODUCED TO THE AESTHETIC FIELD</p>
 		</div><!-- .site-branding-text -->
 
 		<?php get_template_part( 'template-parts/header/header', 'button' ); ?>
