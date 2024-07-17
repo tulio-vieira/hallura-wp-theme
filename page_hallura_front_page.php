@@ -312,53 +312,6 @@ get_header(); ?>
         <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="">
         <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="">
       </div>
-      <h3 class="hallura-result-title mt-30">HLR-1 INDICATORS</h3>
-      <div class="hallura-hlr">
-        <div class="hallura-hlr-container">
-          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/hlr-model-1.jpg' ?>" alt="">
-        </div>
-        <div class="hallura-pack-container">
-          <ul>
-            <li><b>1.</b> Tear trough</li>
-            <li><b>2.</b> Skin rejuvenation</li>
-            <li><b>3.</b> Perioral lines</li>
-            <li><b>4.</b> Lips</li>
-            <li><b>5.</b> Neck</li>
-          </ul>
-          <img class="hallura-pack" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1.png' ?>" alt="">
-        </div>
-      </div>
-      <h3 class="hallura-result-title mt-30">HLR-2 INDICATORS</h3>
-      <div class="hallura-hlr">
-        <div class="hallura-hlr-container">
-          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/hlr-model-2.jpg' ?>" alt="">
-        </div>
-        <div class="hallura-pack-container">
-          <ul>
-            <li><b>1.</b> Temples</li>
-            <li><b>2.</b> NLF</li>
-            <li><b>3.</b> Lips Volume</li>
-            <li><b>4.</b> Marionette lines</li>
-          </ul>
-          <img class="hallura-pack" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="">
-        </div>
-      </div>
-      <h3 class="hallura-result-title mt-30">HLR-3 INDICATORS</h3>
-      <div class="hallura-hlr">
-        <div class="hallura-hlr-container">
-          <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/hlr-model-3.jpg' ?>" alt="">
-        </div>
-        <div class="hallura-pack-container">
-          <ul>
-            <li><b>1.</b> Temples</li>
-            <li><b>2.</b> Nose</li>
-            <li><b>3.</b> Cheeks</li>
-            <li><b>4.</b> Jaw Line</li>
-            <li><b>5.</b> Chin</li>
-          </ul>
-          <img class="hallura-pack" src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="">
-        </div>
-      </div>
     </section>
 
     <section id="safety-breeds-confidence" class="white-bg">
