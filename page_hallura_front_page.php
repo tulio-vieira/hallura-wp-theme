@@ -477,18 +477,6 @@ get_header(); ?>
               <td>8 mg/mL HA with 0.3% Lidocaine</td>
             </tr>
             <tr>
-              <td>Suggested Treatment Areas</td>
-              <td style="text-align: center;">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-1-treatment-areas.svg' ?>" alt="" />
-              </td>
-              <td style="text-align: center;">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-2-treatment-areas.svg' ?>" alt="" />
-              </td>
-              <td style="text-align: center;">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/product-features/hlr-3-treatment-areas.svg' ?>" alt="" />
-              </td>
-            </tr>
-            <tr>
               <td td colspan="3">(1) Hallura, Data on file, Rheological evaluations DR-044.</td>
             </tr>
           </table>
