@@ -429,9 +429,6 @@ get_header(); ?>
               <td>6 mg/mL HA with 0.3% Lidocaine</td>
               <td>8 mg/mL HA with 0.3% Lidocaine</td>
             </tr>
-            <tr>
-              <td td colspan="3">(1) Hallura, Data on file, Rheological evaluations DR-044.</td>
-            </tr>
           </table>
         </div>
       </div>
