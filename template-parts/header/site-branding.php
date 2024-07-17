@@ -31,7 +31,7 @@
 
 			<?php if ( is_front_page() ) : ?>
 				<div class="landpage-title">
-                    The NEW <b>HA Filler</b><br>to enhance the <b>natural You</b>
+                    The NEW <b>Hyaluronic Acid Filler</b><br>to enhance the <b>natural You</b>
                 </div>
 			<?php else : ?>
 				<p class="site-title"><a href="<?php echo esc_url( $button_url ); ?>" target="<?php echo esc_attr( $button_target ); ?>"><?php echo esc_html( $site_title ); ?></a></p>

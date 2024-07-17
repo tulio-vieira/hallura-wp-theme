@@ -63,7 +63,7 @@ get_header(); ?>
       <div class="container-fluid">
         <div class="col-md-6 col-sm-6 col-md-offset-6 col-sm-offset-6">
           <div class="col-inner spacer text-left">
-            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">THE NEW HA FILLER TO ENHANCE THE NATURAL YOU</h1>
+            <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">THE NEW HYALURONIC ACID FILLER TO ENHANCE THE NATURAL YOU</h1>
             <p class="mt-30 intro font-20px" style="text-align: justify;">
               The 2022 Nobel Prize for Chemistry laid the foundation of an <b>ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked.</b> Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
               <br>
