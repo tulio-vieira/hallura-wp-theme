@@ -137,32 +137,38 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS1.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-01.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS2.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-02.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>15M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS3.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-03.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS4.jpg' ?>" alt="">
-                </div>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS5.jpg' ?>" alt="">
-                </div>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/LIPS6.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-04.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -174,27 +180,38 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF1.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION1.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF2.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION2.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>12M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF3.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION3.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF4.jpg' ?>" alt="">
-                </div>
-              </div>
-              <div class="movie-item mb-50">
-               <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLF5.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION4.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>12M After</div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -206,22 +223,38 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS1.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-01.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS2.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-02.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS3.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-03.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/CHEEKS4.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-04.jpg' ?>" alt="">
+                  <div class="hallura-before-after-subtitle">
+                    <div>Before</div>
+                    <div>18M After</div>
+                  </div>
                 </div>
               </div>
             </div>

@@ -89,7 +89,7 @@ if ($('.scroll-to-target').length) {
 $('.ucm-active').owlCarousel({
 	loop: true,
 	margin: 30,
-	items: 2,
+	items: 3,
 	lazyLoad: true,
 	autoplay: false,
 	navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
@@ -103,7 +103,7 @@ $('.ucm-active').owlCarousel({
 			items: 2,
 		},
 		992: {
-			items: 2,
+			items: 3,
 		},
 	}
 });

@@ -75,6 +75,13 @@
     margin-bottom: 0px;
 }
 
+.hallura-before-after-subtitle{
+    display: flex;
+    justify-content: space-around;
+    color: #444 !important;
+    margin-top: 1em;
+}
+
 .hallura-results-grid-wrapper {
     display: grid;
     grid-gap: 16px;
