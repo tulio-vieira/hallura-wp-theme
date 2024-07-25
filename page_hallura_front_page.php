@@ -313,33 +313,38 @@ get_header(); ?>
       </div>
     </section>
 
-    <section id="safety-breeds-confidence" class="white-bg">
+    <section id="safety-builds-confidence" class="white-bg">
       <div class="container">
         <div class="row">
           <div class="section-title text-center">
-            <h1 class="raleway-font">Safety Breeds Confidence</h1>
+            <h1 class="raleway-font">Safety Builds Confidence</h1>
             <hr class="center_line default-bg">
           </div>
         </div>
-        <div class="hallura-results-grid-wrapper">
-          <div class="a hallura-result-box" style="background-color: #f3f7ff">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/52p.png' ?>" alt="">
-            <p>Of consumers would consider dermal filler injections at some point of their lives¹</p>
-          </div>
-          <div class="b hallura-result-box" style="background-color: #f3f7ff">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/55p.png' ?>" alt="">
-            <p>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²</p>
-          </div>
-          <div class="c">
-            <p>"<b>When the question is no longer 'if' I should consider treatment, but 'when' I should consider it, the conversation with the physician changes</b> (...) In the past, we saw patients for aesthetic treatments before a big event such as a wedding or reunion, whereas now we see them on a more regular basis, and they use words like <b>'preventative care'</b>."</p>
-            <div>
-              <hr>
-              <p>Source: ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6099). (2) Total ACC (n=14584). (3) U.S ACC (2122) ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14584 adults from 18 countries.</p>
+        <div class="hallura-results-grid-wrapper hallura-2-column">
+          <div>
+            <h3 class="raleway-font">Patients' Needs</h3>
+            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers harbor concerns regarding the safety and efficacy of HA fillers.</p>
+            <h3 class="raleway-font">Perceived Unnatural Results</h3>
+            <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
+            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
+              <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
+            </div>
+            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
+              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
             </div>
           </div>
-          <div class="d">
-            <h3 class="raleway-font text-center">Main improvement needs of HA fillers</h3>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-breeds-confidence/graph.png' ?>" alt="">
+          <div class="hallura-column">
+            <div>
+              <h3 class="raleway-font">Healthcare Professionals Needs</h3>
+              <p>Healthcare professionals have a growing need for injectable and dermal fillers as they strive to meet patient's expectations for great aesthetic results. The demand for high-quality fillers arises from the desire to achieve natural-looking results with optimal safety and efficacy. As the field continues to advance, healthcare professionals emphasize the importance of reliable, cutting-edge products to ensure patient satisfaction and uphold the highest standards of care in the aesthetic and medical realms.</p>
+            </div>
+            <div>
+              <h3 class="raleway-font">Healthcare professionals express the main needs for improvement of current HA fillers³</h3>
+              <div class="text-center">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-builds-confidence/graph.png' ?>" alt="">
+              </div>
+            </div>
           </div>
         </div>
       </div>
