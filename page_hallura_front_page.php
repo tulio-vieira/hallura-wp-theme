@@ -347,6 +347,9 @@ get_header(); ?>
             </div>
           </div>
         </div>
+        <div style="margin-top: 16px">
+          <p>ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6,099). (2) Total ACC (n=14,584). ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14,584 adults from 18 countries. (3) Source: GLG Market Research June 2021 performed in Germany and USA on 60 doctors. (*) Side reactions , such as swelling, lumps, firmness, pain.</p>
+        </div>
       </div>
     </section>
 
