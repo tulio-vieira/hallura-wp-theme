@@ -608,7 +608,7 @@ get_header(); ?>
 
         <a href="https://www.instagram.com/hallura.io/" target="_blank">
           <div class="col-md-12 text-center">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/screenimg2.png' ?>" alt="xtract-img" class="img-responsive screens" />
+            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/screenimg2.jpg' ?>" alt="xtract-img" class="img-responsive screens" />
           </div>
         </a>
       </div>
