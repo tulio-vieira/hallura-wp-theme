@@ -34,8 +34,8 @@ get_header(); ?>
           <div class="col-md-8 centerize-col">
             <div class="section-title hallura-section">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-logo-brochure.svg' ?>" alt="">
-              <h3 class="raleway-font">Based on the groundbreaking discovery honored with the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
-              <h3 class="raleway-font">Hallura harnessed the advanced concept in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal fillers.</h3>
+              <h3 class="raleway-font">Based on the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
+              <h3 class="raleway-font">Hallura harnessed the advanced concept of Click Chemistry in its proprietary <b>BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal filler.</b> In Hallura’s low HA-concentration and BDDE-free gels, the long HA chains maintain their native benefits conferring unique properties for skin lifting, concurrently bio-stimulating fibroblasts, collagen and elastin for tissue regeneration, beneficial to outstanding clinical results.</h3>
             </div>
             <div class="nobel">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/nobel-prize.png' ?>" alt="">
@@ -65,13 +65,13 @@ get_header(); ?>
           <div class="col-inner spacer text-left">
             <h1 class="raleway-font mt-0 font-50px font-600 xs-font-27px">THE NEW HYALURONIC ACID FILLER TO ENHANCE THE NATURAL YOU</h1>
             <p class="mt-30 intro font-20px" style="text-align: justify;">
-              The 2022 Nobel Prize for Chemistry laid the foundation of an <b>ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked.</b> Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
+              The 2022 Nobel Prize in Chemistry laid the foundation for an <b>ingenious way of building molecules, like snapping Lego together transforming the way molecules can be linked.</b> Click Chemistry is now widely used by researchers to explore topics such as drug delivery and tissue engineering.
               <br>
               <br>
-              The precise Bio-Orthogonal cross-linking developed at Hallura, allows an exceptionally low modification of the native Hyaluronic Acid (HA) polymer. This sustains the innate long polymer chains of the HA and <b>reduces side reactions or by-products.</b> As a result, Hallura's fillers are closer to the pristine HA in a youthful skin.
+              The precise Bio-Orthogonal cross-linking developed at Hallura, allows an exceptionally low modification of the native Hyaluronic Acid (HA) polymer. This sustains the innate long polymer chains of the HA and <b>reduces side reactions or by-products formation.</b> As a result, Hallura's fillers are closer to the pristine HA found in youthful skin.
               <br>
               <br>
-              Hallura's advanced products line for aesthetic applications, includes treatments for skin rejuvenation, fine and deep lines smoothing, and volume restoration in lips and mid-face. <b>The products have undergone pre-clinical and clinical trials in Europe with excellent efficacy and safety outcomes.</b>
+              Hallura's advanced products line for aesthetic applications, includes treatments to stimulate collagen I, III and elastin, for fine and deep lines smoothing, and volume restoration in lips and mid-face. <b>The products have undergone pre-clinical and clinical trials in Europe with excellent efficacy and safety outcomes.</b>
             </p>
           </div>
         </div>
@@ -92,32 +92,39 @@ get_header(); ?>
             </div>
           </div>
         </div>
-        <div class="row mt-50 row-flex flex-center">
-          <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
+        <div class="row mt-50 row-flex flex-center" style="justify-content: center;">
+          <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.1s">
               <i class="fa-solid fa-arrow-up-short-wide font-60px"></i>
-              <h3 class="mt-30 font-200">The only HA based on long chains unlike other HA in the market that contain short chains</h3>
+              <h3 class="mt-30 font-200">The only HA with crosslinked long chains, for exceptional elasticity.</h3>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
+          <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.2s">
-              <i class="fa-solid fa-star font-70px"></i>
-              <h3 class="mt-30 dark-color font-200">The safest HA filler superior to any other leading HA brands that are currently on the market</h3>
+              <i class="fa-solid fa-hand-holding-medical font-70px"></i>
+              <h3 class="mt-30 font-200">Great tolerance after injection. (1)</h3>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-12 xs-mb-50">
+          <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.3s">
-              <i class="fa-regular fa-clock font-60px"></i>
-              <h3 class="mt-30 dark-color font-200">Duration: Very long-lasting results (over 18 months)</h3>
+              <i class="fa-solid fa-star font-70px"></i>
+              <h3 class="mt-30 font-200">Excellent safety profile praised by Injectors using Hallura.</h3>
             </div>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.4s">
+              <i class="fa-regular fa-clock font-60px"></i>
+              <h3 class="mt-30 font-200">Duration: very long-lasting results (over 18 months). (1)</h3>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.5s">
               <i class="fa-solid fa-leaf font-70px"></i>
-              <h3 class="mt-30 dark-color font-200">Natural results: Very forgiving products and easy to mold, well integrated into the dermis</h3>
+              <h3 class="mt-30 font-200">Natural results: the gel can be easily molded. Looks and feels natural in the skin.</h3>
             </div>
           </div>
         </div>
+        <p style="color:#c1c0c0;margin-top:30px">(1) Hallura European Clinical Study (19E2031) on 132 patients for lips enhancement, naso-labial folds correction and cheeks enhancement.</p>
       </div>
     </section>
 
@@ -288,8 +295,9 @@ get_header(); ?>
           <div class="c hallura-result-box" style="background-color: #f0ece8">
             <div>
               <h3 class="raleway-font">Comparison of HA chain lengths</h3>
+              <br>
               <div>
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/graph.png' ?>" alt="">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/ha-chain-lengths-graph.svg' ?>" style="width: 100%" alt="">
               </div>
             </div>
             <h3 class="raleway-font">BiOLinkMatrix preserves HA long chains:</h3>
@@ -297,13 +305,13 @@ get_header(); ?>
               <li>Protects natural HA elasticity</li>
               <li>Protects natural anti-inflammatory effect</li>
             </ul>
-            <p>In conditions commonly employed for BDDE crosslinking, long chains of HA undergo significant damages, resulting in much shorter chains. This degradation occurs even under conditions claimed to be protective for HA.</p>
+            <p>In conditions commonly employed for BDDE crosslinking, long chains of HA undergo significant damage, resulting in much shorter chains. This degradation occurs even under conditions claimed to be protective for HA.</p>
           </div>
           <div class="d hallura-result-box" style="background-color: #f0ece8">
             <h3 class="raleway-font hallura-main">HA BDDE-crosslinked</h3>
             <h4 class="raleway-font hallura-main">Fragments HA polymer chains:</h4>
             <ul>
-              <li>Loss of natural HA elastic potential</li>
+              <li>Loss of HA natural elastic potential</li>
               <li>Granular, hard materials</li>
             </ul>
             <div>
@@ -311,11 +319,11 @@ get_header(); ?>
             </div>
           </div>
           <div class="e hallura-result-box" style="background-color: #f0ece8">
-            <h3 class="raleway-font">BiOLinkMatrix by Hallura® </h3>
+            <h3 class="raleway-font">BiOLinkMatrix by Hallura™ </h3>
             <h4 class="raleway-font">Sustains HA Polymer Long Chains:</h4>
             <ul style="text-align: left">
               <li>Pure elasticity</li>
-              <li>Homogeneous</li>
+              <li>Homogeneous materials</li>
             </ul>
             <div class="text-center">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/revolution/biolink-matrix-by-hallura.svg' ?>" alt="">
@@ -357,14 +365,14 @@ get_header(); ?>
         <div class="hallura-results-grid-wrapper hallura-2-column">
           <div>
             <h3 class="raleway-font">Patients' Needs</h3>
-            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers harbor concerns regarding the safety and efficacy of HA fillers.</p>
-            <h3 class="raleway-font">Perceived Unnatural Results</h3>
+            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” Hallura brings a solution to address these concerns.</p>
+            <h3 class="raleway-font">Consumer concern: perceived Unnatural Results with other fillers</h3>
             <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
               <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
             </div>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
-              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
+            Hallura’s unique design addressed this concern by providing easy to use, extremely elastic gels leading to very natural results and sensations after implantation.
             </div>
           </div>
           <div class="hallura-column">
@@ -471,6 +479,8 @@ get_header(); ?>
             </tr>
           </table>
         </div>
+        <p>(1) Hallura, data on file, study reports - 22E5690, 22E5830, Elastin and Collagen stimulation 7 days post injection in a Human skin explant.</p>
+        <p>(2) Hallura, data on file, rheological evaluations DR-044.</p>
       </div>
     </section>
 
@@ -490,19 +500,19 @@ get_header(); ?>
           </div>
           <div style="background-color: #e8d6a7;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/99-percent.svg' ?>" alt="" />
-            <p>Similar to the natural HA, <b>with exceptionally low modification and high purity.</b></p>
+            <p>Similar to the natural HA, <b>with exceptionally low modification and high purity to enhance safety.</b></p>
           </div>
           <div style="background-color: #e2cdc7;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/feather.svg' ?>" alt="" />
-            <p><b>Low concentration</b> of HA 4 / 6 / 8 mg/mL, for less water intake and less swelling.</p>
+            <p><b>Low concentration</b> of HA 4 / 6 / 8 mg/mL, for less swelling and better tolerance.</p>
           </div>
           <div style="background-color: #fcebeb;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skincare.svg' ?>" alt="" />
-            <p><b>First time in HA fillers:</b> Significant regenerative effect stimulating collagen type I, III, and elastin.</p>
+            <p>Significant stimulation of collagen type I, III, and elastin.</p>
           </div>
           <div style="background-color: #fad7d7;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skin-oil.svg' ?>" alt="" />
-            <p><b>Safety is key:</b> very safe HA filler. Easy to dissolve with hyaluronidase.</p>
+            <p><b>Safety is key:</b> Hallura is a very safe HA filler. Easy to dissolve with hyaluronidase.</p>
           </div>
           <div style="background-color: #8fa4d4;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/rash.svg' ?>" alt="" />
@@ -510,7 +520,7 @@ get_header(); ?>
           </div>
           <div style="background-color: #f4ebd3;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/time.svg' ?>" alt="" />
-            <p><b>Duration:</b> very long-lasting results (over 18 months). Superior tissue integration.</p>
+            <p><b>Duration:</b> very long-lasting results (over 18 months).</p>
           </div>
           <div style="background-color: #ece7e3;">
             <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/confort.svg' ?>" alt="" />
@@ -558,7 +568,7 @@ get_header(); ?>
           </div>
           <div class="hallura-review hallura-review-2">
             <p>
-              I find Hallura to be an interesting promising innovative filler. It is well integrated in the tissue, associated with less swelling and trigger less inflammation. The end aesthetic results seem to be more natural and precise compared to other fillers in the market.
+              I find Hallura to be an interesting promising innovative filler. It is well integrated in the tissue, associated with less swelling and triggers less inflammation. The end aesthetic results seem to be more natural and precise compared to other fillers in the market.
             </p>
             <p>
               <b>Prof. Ofir Artzi</b>, MD, Dermatologist
@@ -574,7 +584,7 @@ get_header(); ?>
           </div>
           <div class="hallura-review hallura-review-4">
             <p>
-              Hallura feels different from regular HA, it integrates perfectly to the tissue and creates the natural curves and shapes without the firmness.
+              Hallura feels different from regular HA, it integrates perfectly in the tissue and creates the natural curves and shapes without the firmness.
             </p>
             <p>
               <b>Dr. Hadar Israeli</b>, MD, Plastic Surgeon

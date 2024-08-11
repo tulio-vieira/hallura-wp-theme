@@ -952,7 +952,7 @@ transition: all .3s ease-in-out;background-color: #ec77ab;}
 
 .counter-wrap{margin:25px 0;text-align:center;width: 100%;}
 .counter-wrap h2{margin:15px 0 20px;font-size:60px;line-height:70px;text-align:center;}
-.counter-wrap h3{font-size:16px;line-height:18px;text-align:center;color:#f1f1f1;font-family:'Montserrat', sans-serif;}
+.counter-wrap h3{font-size:20px;text-align:center;color:#f1f1f1;font-family:'Montserrat', sans-serif;}
 .counter-type-2{padding-left:75px;}
 .counter-type-2 i{position:absolute;top:-1px;left:0;}
 .counter-type-3 .counter-wrap{text-align:left;float:left;}
