@@ -81,9 +81,8 @@ get_header(); ?>
     </section>
     <!--== About Company End ==-->
 
-    <section class="parallax-bg fixed-bg sm-pb-80 sm-pt-80" data-parallax-bg-image="<?php echo get_stylesheet_directory_uri() . '/assets/images/mulherr.png' ?>"
+    <section class="parallax-bg fixed-bg sm-pb-80 sm-pt-80" data-parallax-bg-image="<?php echo get_stylesheet_directory_uri() . '/assets/images/mulherr.jpg' ?>"
       data-parallax-speed="0.5" data-parallax-bg-position="55% 50%" data-parallax-direction="up">
-      <source src="<?php echo get_stylesheet_directory_uri() . '/assets/images/mulherr.png' ?>" type="image/png">
       <div class="overlay-bg"></div>
       <div class="container">
         <div class="row">
