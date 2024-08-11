@@ -51,6 +51,7 @@ get_header(); ?>
     <section class="grey-bg xs-pb-60">
       <div class="col-md-6 col-sm-6 bg-flex bg-flex-left">
         <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/video-thumbnail.jpg' ?>);">
+        <!--      
           <div class="video-box_overlay">
             <div class="center-layout">
               <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
@@ -58,6 +59,7 @@ get_header(); ?>
                 </a> </div>
             </div>
           </div>
+          -->
         </div>
       </div>
       <div class="container-fluid">
@@ -372,7 +374,7 @@ get_header(); ?>
               <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
             </div>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
-            Hallura’s unique design addressed this concern by providing easy to use, extremely elastic gels leading to very natural results and sensations after implantation.
+              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
             </div>
           </div>
           <div class="hallura-column">
