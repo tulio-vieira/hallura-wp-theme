@@ -355,48 +355,7 @@ get_header(); ?>
       </div>
     </section>
 
-    <section id="safety-builds-confidence" class="white-bg">
-      <div class="container">
-        <div class="row">
-          <div class="section-title text-center">
-            <h1 class="raleway-font">Safety Builds Confidence</h1>
-            <hr class="center_line default-bg">
-          </div>
-        </div>
-        <div class="hallura-results-grid-wrapper hallura-2-column">
-          <div>
-            <h3 class="raleway-font">Patients' Needs</h3>
-            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” Hallura brings a solution to address these concerns.</p>
-            <h3 class="raleway-font">Consumer concern: perceived Unnatural Results with other fillers</h3>
-            <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
-            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
-              <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
-            </div>
-            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
-              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
-            </div>
-          </div>
-          <div class="hallura-column">
-            <div>
-              <h3 class="raleway-font">Healthcare Professionals Needs</h3>
-              <p>Healthcare professionals have a growing need for injectable and dermal fillers as they strive to meet patient's expectations for great aesthetic results. The demand for high-quality fillers arises from the desire to achieve natural-looking results with optimal safety and efficacy. As the field continues to advance, healthcare professionals emphasize the importance of reliable, cutting-edge products to ensure patient satisfaction and uphold the highest standards of care in the aesthetic and medical realms.</p>
-            </div>
-            <div>
-              <h3 class="raleway-font">Healthcare professionals express the main needs for improvement of current HA fillers³</h3>
-              <div class="text-center">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-builds-confidence/graph.png' ?>" alt="">
-              </div>
-            </div>
-          </div>
-        </div>
-        <div style="margin-top: 16px">
-          <p>ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6,099). (2) Total ACC (n=14,584). ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14,584 adults from 18 countries. (3) Source: GLG Market Research June 2021 performed in Germany and USA on 60 doctors. (*) Side reactions , such as swelling, lumps, firmness, pain.</p>
-        </div>
-      </div>
-    </section>
-
-
-    <section>
+    <section class="white-bg">
       <div class="container">
         <div class="row">
           <div class="section-title text-center">
@@ -485,6 +444,45 @@ get_header(); ?>
       </div>
     </section>
 
+    <section id="safety-builds-confidence">
+      <div class="container">
+        <div class="row">
+          <div class="section-title text-center">
+            <h1 class="raleway-font">Safety Builds Confidence</h1>
+            <hr class="center_line default-bg">
+          </div>
+        </div>
+        <div class="hallura-results-grid-wrapper hallura-2-column">
+          <div>
+            <h3 class="raleway-font">Patients' Needs</h3>
+            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” Hallura brings a solution to address these concerns.</p>
+            <h3 class="raleway-font">Consumer concern: perceived Unnatural Results with other fillers</h3>
+            <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
+            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
+              <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
+            </div>
+            <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
+              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
+            </div>
+          </div>
+          <div class="hallura-column">
+            <div>
+              <h3 class="raleway-font">Healthcare Professionals Needs</h3>
+              <p>Healthcare professionals have a growing need for injectable and dermal fillers as they strive to meet patient's expectations for great aesthetic results. The demand for high-quality fillers arises from the desire to achieve natural-looking results with optimal safety and efficacy. As the field continues to advance, healthcare professionals emphasize the importance of reliable, cutting-edge products to ensure patient satisfaction and uphold the highest standards of care in the aesthetic and medical realms.</p>
+            </div>
+            <div>
+              <h3 class="raleway-font">Healthcare professionals express the main needs for improvement of current HA fillers³</h3>
+              <div class="text-center">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-builds-confidence/graph.png' ?>" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top: 16px">
+          <p>ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6,099). (2) Total ACC (n=14,584). ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14,584 adults from 18 countries. (3) Source: GLG Market Research June 2021 performed in Germany and USA on 60 doctors. (*) Side reactions , such as swelling, lumps, firmness, pain.</p>
+        </div>
+      </div>
+    </section>
 
     <section class="white-bg">
       <div class="container">
@@ -589,6 +587,14 @@ get_header(); ?>
             </p>
             <p>
               <b>Dr. Hadar Israeli</b>, MD, Plastic Surgeon
+            </p>
+          </div>
+          <div class="hallura-review hallura-review-1">
+            <p>
+            I would like to share my experience with Hallura injections, about two months ago I did injections to improve skin texture and volume in my lower cheeks, I had fine lines that bothered me a lot and in addition, the skin looked tired and not essential. The results were fast, the material spread evenly and blended great and most importantly looked super natural. In the past I experimented with injections of other substances, the substances spread unevenly and there were a lot of bumps. Unlike the previous treatment, I am really satisfied with Hallura treatment, it completely feels different from other substances, the skin texture has improved significantly, and the skin looks glowing and vital. Many thanks, Hallura.
+            </p>
+            <p>
+              <b>Sahar Gov</b>
             </p>
           </div>
         </div>
