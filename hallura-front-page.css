@@ -198,6 +198,7 @@
     }
     #revolution .f {
         grid-column: 1;
+        grid-row: 7;
     }
 }
 

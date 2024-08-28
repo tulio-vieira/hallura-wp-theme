@@ -371,7 +371,7 @@ get_header(); ?>
               <col style="background-color: #fef5f5;"/>
               <col style="background-color: #f9f5e9;"/>
             </colgroup>
-            <tr>
+            <tr style="white-space: nowrap">
               <th></th>
               <th><h3>HLR-1</h3></th>
               <th><h3>HLR-2</h3></th>
