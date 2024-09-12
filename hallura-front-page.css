@@ -309,14 +309,6 @@
     display: inline !important;
 }
 
-.hallura-features {
-    overflow-x:auto;
-}
-
-.hallura-features th, .hallura-features td {
-    padding: 0.4em;
-}
-
 .tab-pane {
     padding: 0px 30px 30px 30px;
 }
