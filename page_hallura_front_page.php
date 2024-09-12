@@ -191,7 +191,7 @@ get_header(); ?>
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION1.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
-                    <div>18M After</div>
+                    <div>12M After</div>
                   </div>
                 </div>
               </div>
@@ -209,7 +209,7 @@ get_header(); ?>
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/nlf/NLFS-CORRECTION3.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
-                    <div>18M After</div>
+                    <div>12M After</div>
                   </div>
                 </div>
               </div>
@@ -448,14 +448,14 @@ get_header(); ?>
       <div class="container">
         <div class="row">
           <div class="section-title text-center">
-            <h1 class="raleway-font">Safety Builds Confidence</h1>
+            <h1 class="raleway-font">Hallura was born to address your needs</h1>
             <hr class="center_line default-bg">
           </div>
         </div>
         <div class="hallura-results-grid-wrapper hallura-2-column">
           <div>
             <h3 class="raleway-font">Patients' Needs</h3>
-            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” Hallura brings a solution to address these concerns.</p>
+            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” <b>Hallura brings a solution to address these concerns.</b></p>
             <h3 class="raleway-font">Consumer concern: perceived Unnatural Results with other fillers</h3>
             <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
@@ -492,38 +492,54 @@ get_header(); ?>
             <hr class="center_line default-bg">
           </div>
         </div>
-        <div class="hallura-benefits">
-          <div style="background-color: #eaf1fe;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/crosslinked-chains.svg' ?>" alt="" />
-            <p>The <b>only HA with crosslinked long chains</b>, for exceptional elasticity.</p>
+        <div class="ucm-active owl-carousel">
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #eaf1fe;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/crosslinked-chains.svg' ?>" alt="" />
+              <p>The <b>only HA with crosslinked long chains</b>, for exceptional elasticity.</p>
+            </div>
           </div>
-          <div style="background-color: #e8d6a7;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/99-percent.svg' ?>" alt="" />
-            <p>Similar to the natural HA, <b>with exceptionally low modification and high purity to enhance safety.</b></p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #e8d6a7;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/99-percent.svg' ?>" alt="" />
+              <p>Similar to the natural HA, <b>with exceptionally low modification and high purity to enhance safety.</b></p>
+            </div>
           </div>
-          <div style="background-color: #e2cdc7;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/feather.svg' ?>" alt="" />
-            <p><b>Low concentration</b> of HA 4 / 6 / 8 mg/mL, for less swelling and better tolerance.</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #e2cdc7;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/feather.svg' ?>" alt="" />
+              <p><b>Low concentration</b> of HA 4 mg/ml, 6 mg/ml, 8mg/ml, for less swelling and better tolerance.</p>
+            </div>
           </div>
-          <div style="background-color: #fcebeb;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skincare.svg' ?>" alt="" />
-            <p>Significant stimulation of collagen type I, III, and elastin.</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #fcebeb;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skincare.svg' ?>" alt="" />
+              <p>Significant stimulation of collagen type I, III, and elastin.</p>
+            </div>
           </div>
-          <div style="background-color: #fad7d7;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skin-oil.svg' ?>" alt="" />
-            <p><b>Safety is key:</b> Hallura is a very safe HA filler. Easy to dissolve with hyaluronidase.</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #fad7d7;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/skin-oil.svg' ?>" alt="" />
+              <p><b>Safety is key:</b> Hallura is a very safe HA filler. Easy to dissolve with hyaluronidase.</p>
+            </div>
           </div>
-          <div style="background-color: #8fa4d4;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/rash.svg' ?>" alt="" />
-            <p><b>No or minimal swelling</b>, inflammation or other side effects post injection. <b>No or minimal</b> lumps or bumps.</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #8fa4d4;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/rash.svg' ?>" alt="" />
+              <p><b>No or minimal swelling</b>, inflammation or other side effects post injection. <b>No or minimal</b> lumps or bumps.</p>
+            </div>
           </div>
-          <div style="background-color: #f4ebd3;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/time.svg' ?>" alt="" />
-            <p><b>Duration:</b> very long-lasting results (over 18 months).</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #f4ebd3;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/time.svg' ?>" alt="" />
+              <p><b>Duration:</b> very long-lasting results (over 18 months).</p>
+            </div>
           </div>
-          <div style="background-color: #ece7e3;">
-            <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/confort.svg' ?>" alt="" />
-            <p><b>Natural results:</b> forgiving product, can be easily molded. Looks and feels natural in the skin.</p>
+          <div class="movie-item mb-50">
+            <div class="hallura-benefit" style="background-color: #ece7e3;">
+              <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/benefits/confort.svg' ?>" alt="" />
+              <p><b>Natural results:</b> forgiving product, can be easily molded. Looks and feels natural in the skin.</p>
+            </div>
           </div>
         </div>
       </div>
