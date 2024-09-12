@@ -157,7 +157,7 @@ get_header(); ?>
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-02.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
-                    <div>15M After</div>
+                    <div>18M After</div>
                   </div>
                 </div>
               </div>
