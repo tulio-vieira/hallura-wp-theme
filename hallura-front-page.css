@@ -289,7 +289,8 @@
 
 .hallura-benefit {
     padding: 30px;
-    text-align: center
+    text-align: center;
+    min-height: 265px;
 }
 
 @media (max-width:572px) {
