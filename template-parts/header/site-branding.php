@@ -30,6 +30,7 @@
 			<?php } ?>
 
 			<?php if ( is_front_page() ) : ?>
+				<p class="site-description">Hallura is more than just a filler!</p>
 				<div class="landpage-title">
                     The NEW <b>Hyaluronic Acid Filler</b><br>to enhance the <b>natural You</b>
                 </div>

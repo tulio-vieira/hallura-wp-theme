@@ -34,7 +34,6 @@ get_header(); ?>
           <div class="col-md-8 centerize-col">
             <div class="section-title hallura-section">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-logo-brochure-2.svg' ?>" alt="">
-              <h3 class="raleway-font"><b>Hallura is more than just a filler!</b></h3>
               <h3 class="raleway-font">Based on the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
               <h3 class="raleway-font">Hallura harnessed the advanced concept of Click Chemistry in its proprietary <b>BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal filler.</b> In Hallura’s low HA-concentration and BDDE-free gels, the long HA chains maintain their native benefits conferring unique properties for skin lifting, concurrently bio-stimulating fibroblasts, collagen and elastin for tissue regeneration, beneficial to outstanding clinical results.</h3>
             </div>
@@ -232,7 +231,7 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-01.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement_01.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
                     <div>12M After</div>
