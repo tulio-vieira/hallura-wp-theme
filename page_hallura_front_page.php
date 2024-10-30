@@ -35,7 +35,7 @@ get_header(); ?>
             <div class="section-title hallura-section">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/hallura-logo-brochure-2.svg' ?>" alt="">
               <h3 class="raleway-font">Based on the 2022 Nobel Prize in Chemistry, making its debut in the aesthetic field.</h3>
-              <h3 class="raleway-font">Hallura harnessed the advanced concept of Click Chemistry in its proprietary <b>BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal filler.</b> In Hallura’s low HA-concentration and BDDE-free gels, the long HA chains maintain their native benefits conferring unique properties for skin lifting, concurrently bio-stimulating fibroblasts, collagen and elastin for tissue regeneration, beneficial to outstanding clinical results.</h3>
+              <h3 class="raleway-font">Hallura harnessed the advanced concept of Click Chemistry in its proprietary BiOLinkMatrix platform to revolutionize the way hyaluronic acid (HA) is crosslinked in dermal filler. In Hallura's low HA-concentration and BDDE-free gels, the long HA chains maintain their native benefits conferring unique properties for skin lifting, concurrently bio-stimulating fibroblasts, collagen and elastin for tissue regeneration, beneficial to outstanding clinical results.</h3>
             </div>
             <div class="nobel">
               <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/nobel-prize.png' ?>" alt="">
@@ -103,7 +103,7 @@ get_header(); ?>
           <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.2s">
               <i class="fa-solid fa-hand-holding-medical font-70px"></i>
-              <h3 class="mt-30 font-200">Great tolerance after injection. (1)</h3>
+              <h3 class="mt-30 font-200">Great tolerance after injection.¹</h3>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50 sm-mb-50">
@@ -115,7 +115,7 @@ get_header(); ?>
           <div class="col-md-4 col-sm-6 col-xs-12 xs-mb-50">
             <div class="counter-wrap wow fadeInRight white-color" data-wow-delay="0.4s">
               <i class="fa-regular fa-clock font-60px"></i>
-              <h3 class="mt-30 font-200">Duration: very long-lasting results (over 18 months). (1)</h3>
+              <h3 class="mt-30 font-200">Duration: very long-lasting results (over 18 months).¹</h3>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
@@ -125,7 +125,7 @@ get_header(); ?>
             </div>
           </div>
         </div>
-        <p style="color:#c1c0c0;margin-top:30px">(1) Hallura European Clinical Study (19E2031) on 132 patients for lips enhancement, naso-labial folds correction and cheeks enhancement.</p>
+        <p style="color:#c1c0c0;margin-top:30px">1 - Hallura European Clinical Study (19E2031) on 132 patients for lips enhancement, naso-labial folds correction and cheeks enhancement.</p>
       </div>
     </section>
 
@@ -230,7 +230,7 @@ get_header(); ?>
           <div class="tab-pane fade show active" role="tabpanel">
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
-               <div class="movie-poster">
+                <div class="movie-poster">
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement_01.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
@@ -239,7 +239,7 @@ get_header(); ?>
                 </div>
               </div>
               <div class="movie-item mb-50">
-               <div class="movie-poster">
+                <div class="movie-poster">
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-02.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
@@ -248,7 +248,7 @@ get_header(); ?>
                 </div>
               </div>
               <div class="movie-item mb-50">
-               <div class="movie-poster">
+                <div class="movie-poster">
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-03.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
@@ -257,7 +257,7 @@ get_header(); ?>
                 </div>
               </div>
               <div class="movie-item mb-50">
-               <div class="movie-poster">
+                <div class="movie-poster">
                   <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/cheeks/cheeks-enhancement-04.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
@@ -276,16 +276,16 @@ get_header(); ?>
         <div class="row">
           <div class="col-md-8 centerize-col text-center">
             <div class="section-title">
-              <h1 class="raleway-font">Meet Our Range</h1>
+              <h1 class="raleway-font">Discover Our Product Range</h1>
               <hr class="center_line default-bg">
             </div>
           </div>
         </div>
       </div>
-      <div class="hallura-packs">
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1.png' ?>" alt="">
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="">
-        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="">
+      <div class="ucm-active owl-carousel hallura-packs">
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-1.png' ?>" alt="" />
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-2.png' ?>" alt="" />
+        <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/packs/HLR-3.png' ?>" alt="" />
       </div>
     </section>
 
@@ -299,32 +299,35 @@ get_header(); ?>
         </div>
         <div class="hallura-results-grid-wrapper hallura-2-column">
           <div>
-            <h3 class="raleway-font">Patients' Needs</h3>
-            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” <b>Hallura brings a solution to address these concerns.</b></p>
+            <h3 class="raleway-font">Hallura cares about Patients' Needs</h3>
+            <p>The utilization of HA fillers is a mainstay in the field of aesthetic enhancements. However, a significant portion of potential customers or long-time users harbor concerns regarding the safety and effectiveness of current HA fillers. These emerging concerns are sometimes referred to as “filler fatigue.” <b>Hallura brings a solution to address these concerns with more natural products, excellent safety profile and proven effectiveness.</b></p>
             <h3 class="raleway-font">Consumer concern: perceived Unnatural Results with other fillers</h3>
-            <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹.</p>
+            <p>55% of respondents were concerned about looking unnatural post-procedure, by the "overfilled" or "frozen" appearance often associated with poorly administered fillers¹. Hallura gels are elastic to conform to your skin and are loved by doctors and patients for providing natural results.</p>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px; margin: 16px 0px;">
               <span class="hallura-result-big-text">55%</span>Of consumers are concerned about unnatural results from non-surgical enhancement, treatment and procedures²
             </div>
             <div class="hallura-result-box" style="background-color: #e1e9f5; padding-top: 40px;">
-              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives¹
+              <span class="hallura-result-big-text">52%</span>Of consumers would consider dermal filler injections at some point of their lives²
             </div>
           </div>
           <div class="hallura-column">
             <div>
-              <h3 class="raleway-font">Healthcare Professionals Needs</h3>
-              <p>Healthcare professionals have a growing need for injectable and dermal fillers as they strive to meet patient's expectations for great aesthetic results. The demand for high-quality fillers arises from the desire to achieve natural-looking results with optimal safety and efficacy. As the field continues to advance, healthcare professionals emphasize the importance of reliable, cutting-edge products to ensure patient satisfaction and uphold the highest standards of care in the aesthetic and medical realms.</p>
+              <h3 class="raleway-font">Hallura focuses on the needs of healthcare professionals</h3>
+              <p>Healthcare professionals have a growing need for injectable and dermal fillers as they strive to meet patient's expectations for great aesthetic results. The demand for high-quality fillers arises from the desire to achieve natural-looking results with optimal safety and efficacy. As the field continues to advance, healthcare professionals emphasize the importance of reliable, cutting-edge products to ensure patient satisfaction and uphold the highest standards of care in the aesthetic and medical realms. <b>Hallura strives to provide crosslinked HA fillers of the highest quality and purity, formulations as close as possible to natural HA for better integration into tissues, a key to delivering natural results with the highest tolerance.</b></p>
             </div>
             <div>
               <h3 class="raleway-font">Healthcare professionals express the main needs for improvement of current HA fillers³</h3>
               <div class="text-center">
-                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-builds-confidence/graph.png' ?>" alt="">
+                <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/safety-builds-confidence/graph-0.png' ?>" alt="">
               </div>
             </div>
           </div>
         </div>
-        <div style="margin-top: 16px">
-          <p>ALLERGAN 360° AESTHETICS REPORT (2019) (1) Total Global Aesthetic Conscious Consumers (ACC) 21-35 (n=6,099). (2) Total ACC (n=14,584). ACC are those who self-identified as interested in looking better and willing to spend on it. Sample of 14,584 adults from 18 countries. (3) Source: GLG Market Research June 2021 performed in Germany and USA on 60 doctors. (*) Side reactions , such as swelling, lumps, firmness, pain.</p>
+        <div class="hallura-reference">
+          <p>References:</p>
+          <p>1 - Hallura European Clinical Study (19E2031) on 132 patients for lips enhancement, naso-labial folds correction and cheeks enhancement.</p>
+          <p>2 - Allergan 360° aesthetic report (2019).</p>
+          <p>3 - GLG Market Research June 2021 performed in Germany and USA on 60 doctors. Short term side reactions such as swelling, lumps, firmness, pain.</p>
         </div>
       </div>
     </section>
@@ -493,7 +496,7 @@ get_header(); ?>
               <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="section-title">
                   <h2 class="raleway-font default-color">Our Email</h2>
-                  <p class="mb-0 mt-30" style="color: #FFFFFF;">info@hallura.com</p>
+                  <p class="mb-0 mt-30" style="color: #FFFFFF;"><a href="mailto:info@hallura.com">info@hallura.com</a></p>
                 </div>
               </div>
             </div>

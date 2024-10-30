@@ -106,7 +106,6 @@
     margin: 1em 0 1em 1em;
 }
 
-
 .hallura-result-box {
     border-radius: 10px;
     padding: 30px;
@@ -118,6 +117,13 @@
 
 .hallura-result-box h4 {
     margin-top: 0px;
+}
+
+.hallura-reference {
+    margin-top: 16px;
+}
+.hallura-reference p {
+    margin: 0px;
 }
 
 .a {
@@ -209,13 +215,14 @@
     margin-top: 0px;
 }
 
-.hallura-packs {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
+.hallura-packs div {
+    text-align: center;
+    margin-bottom: 20px;
 }
+
 .hallura-packs img {
     max-width: 200px;
+    display: inline !important;
 }
 
 @media (max-width:480px) {
