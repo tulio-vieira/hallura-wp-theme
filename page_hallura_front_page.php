@@ -50,16 +50,14 @@ get_header(); ?>
     <!--== About Company Start ==-->
     <section class="grey-bg xs-pb-60">
       <div class="col-md-6 col-sm-6 bg-flex bg-flex-left">
-        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/video-thumbnail.jpg' ?>);">
-        <!--      
+        <div class="bg-flex-holder bg-flex-cover" style="background-image: url(<?php echo get_stylesheet_directory_uri() . '/assets/images/thumbnail-hallura-video.jpg' ?>);">
           <div class="video-box_overlay">
             <div class="center-layout">
-              <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=1e3c7074-7632-4a63-89e4-b31d61541f67">
+              <div class="v-align-middle"> <a class="popup-youtube" href="https://player-vz-5901252d-235.tv.pandavideo.com.br/embed/?v=5a9cbd7e-48bd-4a66-80c9-77ffd40dbb5f">
                   <div class="play-button"><i class="tr-icon ion-android-arrow-dropright"></i></div>
                 </a> </div>
             </div>
           </div>
-          -->
         </div>
       </div>
       <div class="container-fluid">

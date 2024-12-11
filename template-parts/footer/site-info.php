@@ -16,9 +16,9 @@
 	}
 	?>
 	<span class="copyright">
-		<span>© 2024 Hallura. All rights reserved</span>
-		<span class="social-media">
-			<a href="https://www.instagram.com/hallura.io/" target="_blank" class="icofont icofont-instagram"></a>
+		<span>© 2025 Hallura. All rights reserved</span>
+		<span>The HLR dermal fillers are not commercially available in the USA</span>
+		<span class="social-media" style="margin-top:12px">
 			<a href="https://www.linkedin.com/company/hallura" target="_blank" class="icofont icofont-linkedin"></a>
 		</span>
 	</span>
