@@ -143,7 +143,7 @@ get_header(); ?>
             <div class="ucm-active owl-carousel">
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-01.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips-01.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
                     <div>18M After</div>
@@ -152,7 +152,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                 <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-02.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips-02.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
                     <div>15M After</div>
@@ -161,7 +161,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-03.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips-03.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
                     <div>18M After</div>
@@ -170,7 +170,7 @@ get_header(); ?>
               </div>
               <div class="movie-item mb-50">
                <div class="movie-poster">
-                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/Lip-enhancement-04.jpg' ?>" alt="">
+                  <img src="<?php echo get_stylesheet_directory_uri() . '/assets/images/results/lips/lips-04.jpg' ?>" alt="">
                   <div class="hallura-before-after-subtitle">
                     <div>Before</div>
                     <div>18M After</div>
